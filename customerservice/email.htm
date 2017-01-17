@@ -1,0 +1,58 @@
+<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 4.01 Transitional//EN'>
+					<html>
+					<head>
+					<title>Silent Timer Referral</title>
+					<meta http-equiv='Content-Type' content='text/html; charset=iso-8859-1'>
+					</head>
+					
+					<body>
+					<p><font size='2' face='Arial, Helvetica, sans-serif'>$Name1,</font></p>
+					<p><font size='2' face='Arial, Helvetica, sans-serif'>I just bought a product
+					    from <a href="http://www.silenttimer.com">www.SilentTimer.com</a> to
+					    help me prepare for my test, and I wanted to recommend
+					    the site to you, as well as get you 5% off. </font></p>
+					<p><font size='2' face='Arial, Helvetica, sans-serif'>When you put in this
+					    code: <strong><font color='#FF0000'>$CustomerID</font></strong>, 
+					    you will get <font color='#33CC33' size='3'><strong>5% off</strong></font> of
+					    your entire purchase! This offer is valid through $EndDate.
+					    Enter &quot;$CustomerID&quot; on the order page
+					    where it asks for the promotion code.</font></p>
+					<p><font size='2' face='Arial, Helvetica, sans-serif'>They have several
+					      products available for helping students achieve higher
+					      scores on standardized tests: </font></p>
+					<ul>
+					  <li><font size='2' face='Arial, Helvetica, sans-serif'><strong>The Silent
+					        Timer&#8482;</strong> is
+						    a special standardized testing timer that allows
+					      you to track your time on the overall test, as well
+					      as time per question. Great for practicing your pacing. </font></li>
+				      <li><font size='2' face='Arial, Helvetica, sans-serif'><strong>Silent
+				            Digital Watch</strong> - count up/count down watch with large LCD screen
+				          that is completely silent</font></li>
+					  <li><font size='2' face='Arial, Helvetica, sans-serif'><strong>MASTER
+					        THE LSAT by Nova</strong> - test prep book to help LSAT students study
+					      for the test.</font></li>
+					  <li><font size='2' face='Arial, Helvetica, sans-serif'>You can also purchase
+					      a combination of the above items for 20% off.</font></li>
+					</ul>
+					<p><font size='2' face='Arial, Helvetica, sans-serif'>Go to <a href='http://www.silenttimer.com'>www.SilentTimer.com</a> to
+				      order your product, and don't forget the promotion code!</font></p>
+					";
+					  
+					  if($Note <> "")
+					  {
+					  
+					$html .= " 			
+					
+					<p><font size='2' face='Arial, Helvetica, sans-serif'>Special Note:<br>
+					  $Note
+					</font></p>";
+					
+					}				
+					
+					$html .= "
+					<p><font size='2' face='Arial, Helvetica, sans-serif'>Thanks,</font></p>
+					<p><font size='2' face='Arial, Helvetica, sans-serif'>$Name</font></p>
+					</body>
+
+					</html>

@@ -1,0 +1,1269 @@
+FirstName,LastName,Email,City,State,PurchaseID,Subtotal,OrderDateTime,Num
+Pratibha,Guha,zwankarma@hotmail.com,Long Beach,CA,2539,29.95,2005-05-04,2
+Mary,Smircic,amdacey@hotmail.com,Jacksonville,FL,3540,32.95,2005-09-03,2
+Cassandre,Lewis,cassandrelewis@hotmail.com,Portland,OR,3147,29.95,2005-07-26,2
+Tracey,Duncan,trtrtrouble@aol.com,New York,NY,3715,36.2,2005-09-17,2
+Harriet,Wintermute,limedragon@gmail.com,St Paul,MN,3690,32.95,2005-09-15,1
+Carina,Wallance,dwalln@yahoo.com,Providence,RI,3799,32.95,2005-09-21,2
+Geneva,Roberts,geneva_jdlaw@sbcglobal.net,Chicago,IL,3269,33.2,2005-08-09,2
+Jonathan,Dembling,j.dembling@gmail.com,New York,NY,3418,29.95,2005-08-24,2
+Brian,Dower,dowerb@gmail.com,Roche Harbor,WA,3004,29.95,2005-07-10,2
+Aaron,Ponce,aaronponce@gmail.com,Austin,TX,2930,29.95,2005-06-23,1
+Pamela,Singh,pamfnp1996@Yahoo.com,San Diego,CA,3449,29.95,2005-08-26,1
+Martin,Fischman,mfischma@indiana.edu,Bloomington,IN,2824,29.95,2005-05-31,1
+Matthew,Krupke,Krupke1@aol.com,Culver City,CA,3397,29.95,2005-08-22,2
+Danielle,Schiffman,dos@georgetown.edu,Houston,TX,2932,29.95,2005-06-23,2
+Gregor,Kabchan,gattendou@aol.com,Studio City,CA,2398,29.95,2005-04-15,1
+Myriam,Goteni-Noubeyo,riammy@yahoo.com,Fremont,CA,2979,33.2,2005-07-05,1
+Shane,Ham,alvernon90@yahoo.com,Tucson,AZ,3063,29.95,2005-07-17,2
+Michael,Sribnick M.d.,drmsribnick@sc.rr.com,Columbia,SC,2937,29.95,2005-06-25,2
+Ryan,Green,greenr@dickinson.edu,Alexandria,VA,2415,29.95,2005-04-18,2
+Holly,Filleman,HKFilleman@hotmail.com,Flagstaff,AZ,2733,29.95,2005-05-23,1
+Derek,Oliverson,oliv1627@suumail.net,Cedar City,UT,2476,29.95,2005-04-28,2
+Krista,Pellerin,kristamione@hotmail.com,Orange,CA,3860,32.95,2005-09-26,1
+Margaret,Lukoff,mlukoff@yahoo.com,Seattle,WA,2923,29.95,2005-06-21,1
+Blake,Holland,blakeholland@sbcglobal.net,Palo Alto,CA,3029,29.95,2005-07-13,2
+Alesia,Valdez,tbradley4848@yahoo.com,Casablanca,,2338,29.95,2005-04-08,1
+Lauren,Hulme,lhulme@uwo.ca,Midland,ON,2677,29.95,2005-05-17,2
+Naveen,Pai,naveen_pai@yahoo.com,Stanford,CA,3031,29.95,2005-07-13,2
+Paula,Spruill,pspruill_2006@yahoo.com,Washington,DC,3193,29.95,2005-08-02,1
+Frances,Hagan,frances_hagan@hotmail.com,Los Angeles,CA,3376,33.2,2005-08-19,2
+Nina,Du,Silvernite3@aol.com,Wilmington,NC,3845,32.95,2005-09-26,2
+Brian,Strauss,bstrauss@vuepoint.com,New York,NY,2439,29.95,2005-04-23,2
+Diana,Leon,DLeon1@scu.edu,Salinas,CA,2549,29.95,2005-05-05,2
+Mary Lee,Kingsley,mlkingsley@bfsfcu.org,Bethesda,MD,2967,29.95,2005-07-01,2
+Joonki,Chung,fearnor1@hotmail.com,Arlington,VA,2392,59.9,2005-04-14,2
+Yolanda,Siders,YOlside@aol.com,Englewood,NJ,3102,29.95,2005-07-20,2
+Nathan,Gabbard,n8thgr8gab@hotmail.com,Chicago,IL,2605,29.95,2005-05-10,2
+Alexios,Pathenos,apathenos@hotmail.com,Chicago,IL,3427,29.95,2005-08-25,1
+Michael,Whitney,michaelwhitney@gmail.com,Centennial,CO,2622,29.95,2005-05-12,1
+Peter,Samponaro,peter.samponaro@ryanbeck.com,Greenwich,CT,2774,29.95,2005-05-26,2
+Norbert,Wang,norbertwang@yahoo.com,Torrance,CA,2465,29.95,2005-04-26,1
+Nadira,Persaud,nadirap03@aol.com,Naples,FL,3348,29.95,2005-08-17,2
+Katherine,Burris,JPRUTLEDGE@UCDAVIS.EDU,Davis,CA,2483,29.95,2005-04-29,2
+Daniel,Vaswani,danvaswani@aol.com,Union City,CA,3437,29.95,2005-08-25,1
+Michael,Link,mrlink@cord.edu,Moorhead,MN,2617,29.95,2005-05-11,2
+Carlos,Vicent,vicent@consultant.com,Centerline,MI,2938,29.95,2005-06-25,1
+Jazmin,Perez,jazmin4545@aol.com,Miami,FL,3676,32.95,2005-09-14,1
+Rachel,Turner,rdt23@cornell.edu,Great Neck,NY,2985,29.95,2005-07-06,2
+Timothy,Cheng,tjclax9@yahoo.com,Floral Park,NY,2728,29.95,2005-05-22,1
+Hilliard,Lawler,hhl3ivc@bellsouth.net,Indianola,MS,2362,59.9,2005-04-11,2
+Jennifer,Ryan,ryanjen@lafayette.edu,Easton,PA,3781,32.95,2005-09-20,1
+Hong Qiong,Yang,hongqiong29@yahoo.com,Omaha,NE,2897,33.2,2005-06-17,1
+Aaron,Linn,a2linn@yahoo.com,Ofallon,MO,3219,33.2,2005-08-04,1
+Joshua,Tanis,tanisj@student.gvsu.edu,Jenison,MI,2635,29.95,2005-05-13,1
+Elena,Eydelman,eeydelman@ljbpc.com,New York,NY,3630,67.95,2005-09-11,1
+Hina,Rodriguez,rodriguez_hina@yahoo.com,Washington,DC,3192,29.95,2005-08-01,1
+Jennifer,Nettleingham,NettleinghamJenn@aol.com,Harrah,OK,2832,29.95,2005-06-01,2
+Krystyna,Cloutier,cloutierkm@msn.com,New Britain,CT,2624,29.95,2005-05-12,1
+Patrick,Coyle,patrick.coyle@goaimhigh.com,Omaha,NE,3281,29.95,2005-08-10,2
+Alan,Clarke,elnino@ignmail.com,Andover,MA,3242,29.95,2005-08-07,2
+Justus,Britt,justus.britt@gmail.com,Hermosa Beach,CA,3523,29.95,2005-09-01,1
+Soo,Lee,leesg@verizon.net,Brooklyn,NY,3233,29.95,2005-08-05,1
+Michael,Eng,engmichael@earthlink.net,Burbank,CA,3062,29.95,2005-07-17,2
+Garrick,Schenck,schenck57@comcast.net,Aurora,CO,3788,32.95,2005-09-21,1
+Doheg,Velasco,dohegv@yahoo.com,Berkeley,CA,2351,29.95,2005-04-10,2
+Hamlet,Polanco,hdp8@bellsouth.net,Port St. Lucie,FL,3800,32.95,2005-09-21,2
+Mhy-lanie,Adduru,salam.walaikum@gmail.com,Berkeley,CA,3201,59.9,2005-08-03,2
+La Toya,Hayden,lhayden@humana.com,Louisville,KY,3157,29.95,2005-07-28,1
+Ali,Shafqat,xmisterx41@hotmail.com,Ann Arbor,MI,3034,29.95,2005-07-14,2
+Alex,Scolnik,alex@webfields.com,Waccabuc,NY,2402,29.95,2005-04-16,2
+Nicole,Washington,chuckw@mis.net,Pittsburgh,PA,2788,29.95,2005-05-27,2
+Jessica,Dement,dement20@hotmail.com,Gilbert,AZ,3310,29.95,2005-08-14,2
+Tom,Chang,tchang77@yahoo.com,Union City,CA,3052,29.95,2005-07-16,1
+Brian,Clark,bclark0923@earthlink.net,Grayson,GA,2924,29.95,2005-06-22,1
+Alexander T,Bauer,bauer1811@hotmail.com,Chandler,AZ,3572,32.95,2005-09-06,1
+Ana,Machado,Azulita32@aol.com,Helena,MT,3445,29.95,2005-08-26,2
+Christopher,Hair,ASH2409@comcast.net,Philadelphia,PA,2679,29.95,2005-05-17,1
+Wilson,Manning,wilson_manning@yahoo.com,Boise,ID,2695,29.95,2005-05-19,1
+Karen,Surabian,biokts101@yahoo.com,North Potomac,MD,2556,29.95,2005-05-07,1
+Marissa,Bontempo,mlb303@nyu.edu,New York,NY,2356,29.95,2005-04-11,1
+David,Gundell,Dgrun09@aol.com,Amherst,MA,3617,32.95,2005-09-10,2
+Brian,Fischer,bfische1@ithaca.edu,Ithaca,NY,3527,32.95,2005-09-01,2
+Nancy,Moothart,mt.nb@cfu.net,Cedar Falls,IA,3172,33.2,2005-07-30,2
+William,Romanoff,wisechildnyc@aol.com,Jamaica Estates,NY,2560,29.95,2005-05-07,2
+Karen,Riesenburger,kriesen@emory.edu,Atlanta,GA,3220,33.2,2005-08-04,2
+Hussain,Tinwala,hussaintin@gmail.com,Toronto,ON,3275,66.4,2005-08-09,2
+Ziv,Tepman,ztepman@hotmail.com,Stanford,CA,3211,33.2,2005-08-04,2
+Luz,Hochhalter,marialuz2871@hotmail.com,Sherwood,OR,3202,29.95,2005-08-03,1
+Brad,Hansen,butterbrad@hotmail.com,Lincoln,NE,2391,29.95,2005-04-14,2
+Jordan,Mcduff,jordanmcduff@gmail.com,Coral Gables,FL,3653,32.95,2005-09-12,2
+Daniel,Murdock,murdock212@hotmail.com,La Jolla,CA,3222,29.95,2005-08-04,2
+Joe,Kenney,jskenney3@mac.com,Phila,PA,3425,29.95,2005-08-25,1
+Tera,Ladner,TERALADNER@bellsouth.net,Douglasville,GA,2986,29.95,2005-07-06,2
+Kelli,Fletcher,fletchernurse@yahoo.com,Hudson,WI,3876,32.95,2005-09-27,2
+Lynzy,Caton,lynzycat@sas.upenn.edu,San Jose,CA,3789,32.95,2005-09-21,1
+Elisha,Mcnease,emac354@midsouth.rr.com,Memphis,TN,3194,33.2,2005-08-02,2
+Rosa,Park,rpark26@aol.com,Towson,MD,3642,32.95,2005-09-12,1
+Lindsay,Lee,lee.lindsay@gmail.com,London,ON,2563,29.95,2005-05-07,2
+Durand,Duin,durandd@gmail.com,Mountain View,CA,3519,29.95,2005-08-31,2
+Doug,Irion,noirion@comcast.net,Portland,OR,3407,29.95,2005-08-23,2
+Enrique,Arteaga,earteaga31@adelphia.net,Los Angeles,CA,3649,32.95,2005-09-12,2
+Kim,Walsh,kmwalsh@coe.edu,Broomfield,CO,3003,29.95,2005-07-10,1
+Brandi,Tyler,brandi.tyler@gmail.com,Stansbury Park,UT,2460,29.95,2005-04-26,2
+Joo Young,Kim,suek19@yahoo.com,New York,NY,2659,29.95,2005-05-16,1
+Bill,Fanning,bfanning@nlci.cc,Columbia,TN,2751,89.85,2005-05-24,2
+Charles,Mcdonald,charles.mcdonald@mu.edu,Milwaukee,WI,2449,29.95,2005-04-25,2
+Nikita,Liamzine,shopsterdam@yahoo.com,Lexington,VA,3863,32.95,2005-09-26,2
+Justin,Moore,asugop@hotmail.com,Huntersville,NC,3308,29.95,2005-08-14,2
+Gwendolyn,Stamper,gwendolyn.stamper@shearman.com,New York,NY,2950,33.2,2005-06-27,2
+Vincent,Mivehchi,vmivehch@pacbell.net,Anaheim Hills,CA,2818,29.95,2005-05-31,1
+Amanda,Deitz,amandadeitz@pfizer.com,New York,NY,2524,29.95,2005-05-03,2
+Sarah,Keating,sarah.keating@husch.com,Saint Louis,MO,2669,29.95,2005-05-17,2
+Jaehyun,Kwon,jaehyunkwon@yahoo.com,Seoul,,3316,29.95,2005-08-15,2
+Caroline,Ham,cdham@ucdavis.edu,Davis,CA,2455,29.95,2005-04-25,2
+Nancy,Moore,nmoore25@comcast.net,Silver Springs,MD,3215,29.95,2005-08-04,1
+Roy,Hakimian,rahakimian@yahoo.com,Great Neck,NY,2839,29.95,2005-06-02,2
+Elizabeth,Contreras,elizabeth.contreras@hklaw.com,San Antonio,TX,3119,29.95,2005-07-22,1
+Brian,Standen,bstanden@gmail.com,Carlsbad,CA,2606,29.95,2005-05-10,2
+Marisol,Vazquez,MVazquez@mulberrylawgroup.com,Springfield,MA,3207,29.95,2005-08-04,2
+Terri,Segovia,TerriAnne.Segovia@gmail.com,Lexington,MA,3575,32.95,2005-09-07,2
+Dawn,Sickles,sickmom2@hotmail.com,Saginaw,MI,2552,29.95,2005-05-06,2
+Jason,Lee,jlee232@jhu.edu,Redondo Beach,CA,3104,33.2,2005-07-20,1
+Brian,Schierding,bgsx9c@mizzou.edu,Wentzville,MO,3662,65.9,2005-09-13,2
+Rachel,Meaney,lauralc1811@yahoo.com,Austin,TX,3629,32.95,2005-09-11,1
+Rhonda,Green,rgreen@cableone.net,Borger,TX,3636,32.95,2005-09-12,1
+David,Steinberg,david.steinberg@yale.edu,West Vancouver,BC,3402,29.95,2005-08-23,1
+Michael,Valenti,smart_guy_87@excite.com,Hammond,LA,3327,29.95,2005-08-16,1
+Kenneth,Eihusen,anikinskyw@aol.com,Middleton,WI,3867,32.95,2005-09-26,1
+Irina,Yarovaya,yarovaya81@hotmail.com,Long Beach,CA,2507,29.95,2005-05-02,1
+Frank,Fasel,fasel@cox.net,Ladera Ranch,CA,3556,32.95,2005-09-05,2
+James,Hancock,jameskent131@hotmail.com,Cushing,OK,3417,33.2,2005-08-24,2
+Mark,Hart,MHART@QPWBLAW.COM,Miami,FL,3687,32.95,2005-09-15,1
+Rex,Mann,ram9339@tamu.edu,College Station,TX,2660,29.95,2005-05-16,1
+Raj,Rao,rajmrao@hotmail.com,Bernardsville,NJ,2416,29.95,2005-04-18,1
+Diane,Birchman,dbirchman@hotmail.com,Thousand Oaks,CA,3834,32.95,2005-09-25,1
+Hongyan,Xue,smell.smile@gmail.com,Shanghai,ZZ,2551,29.95,2005-05-06,1
+Rafael,Llanos,rellanos@hotmail.com,Baton Rouge,LA,3286,29.95,2005-08-10,1
+Albert,Akl,albert-akl@cal.berkeley.edu,Hayward,CA,3039,29.95,2005-07-14,1
+Stephane,Adam,toyon204@gmail.com,New York,NY,2426,29.95,2005-04-20,2
+Kristofer,Sandor,ksandor01@yahoo.com,Groton,CT,2385,29.95,2005-04-13,2
+Christina,Kramer,ckramer81@yahoo.com,Churchville,MD,3103,29.95,2005-07-20,1
+Annie,Lau,asylau@hotmail.com,Toronto,ON,3486,29.95,2005-08-30,2
+Christopher,Elms,aglaia321@yahoo.com,Huntington Beach,CA,3588,71.2,2005-09-07,1
+Starr,Cordell,supadupastarr@hotmail.com,Palo Alto,CA,3349,29.95,2005-08-17,2
+Tyler,Ladner,thl@fletcher.com,New York,NY,3530,65.9,2005-09-01,2
+Agnes,Felton,agnes85208@yahoo.com,Apache Junction,AZ,3409,29.95,2005-08-23,2
+Jeff,Barlow,jeffbar77@hotmail.com,Wheaton,IL,2343,29.95,2005-04-09,1
+Daniel,Velazquez,estccorp@yahoo.com,Bayamon,PR,2354,29.95,2005-04-10,1
+Rebecca,Shanks,silenttimer@isansu.com,Austin,TX,3002,29.95,2005-07-10,2
+Michael,Schuttloffel,villanova97@yahoo.com,Crofton,MD,2575,29.95,2005-05-09,2
+Michael,Dugger,mrd@ssgplaw.com,Chandler,AZ,2634,29.95,2005-05-13,1
+Pete,Allen,allen124@hotmail.com,San Diego,CA,2347,29.95,2005-04-10,2
+Dan,Branum,seekingtruthnow@yahoo.com,Stillwater,OK,2693,29.95,2005-05-19,2
+Toni,Costagliola,tonicostagliola@hotmail.com,New York,NY,3485,29.95,2005-08-30,2
+Douglas,Swift,dswift@mail.utexas.edu,Austin,TX,3153,29.95,2005-07-27,2
+Hiroshi,Kawakami,sirosi@nifty.com,Yokohama City,ZZ,2880,29.95,2005-06-13,1
+Khalid,Ali,mirkhalidali@yahoo.com,Bronx,NY,2744,29.95,2005-05-24,2
+Joshua,Cohen,cohe0931@blue.unco.edu,Evans,CO,2614,29.95,2005-05-11,2
+Alicenne,Passavanti,palicenne_@hotmail.com,San Francisco,CA,3846,32.95,2005-09-26,2
+Raegen,Richard,raegenrichard@gmail.com,Baton Rouge,LA,2577,29.95,2005-05-09,2
+Brigid,Decoursey,brigid-decoursey@utulsa.edu,Little Rock,AR,2810,29.95,2005-05-30,2
+Brandon,Hughes,bhughes3@georgiasouthern.edu,Statesboro,GA,3842,32.95,2005-09-25,2
+Jennifer,Ramirez,lacubana79@hotmail.com,Chapel Hill,NC,3395,29.95,2005-08-22,1
+Justin,Papciak,midy9@hotmail.com,Pittsburgh,PA,3268,29.95,2005-08-09,2
+Marshall,Jones,evereign@hotmail.com,Thomasville,NC,3189,29.95,2005-08-01,2
+Gretchen,Miscik,gmiscik01@comcast.net,Nokomis,FL,2582,29.95,2005-05-10,1
+Nancy,Kievit,nancykievit@hotmail.com,Columbia,MO,2694,29.95,2005-05-19,2
+Catherine,Etzel,catherine.etzel@gmail.com,New York,NY,2480,29.95,2005-04-29,1
+Jason,Braxton,j_a_braxton@hotmail.com,Hercules,CA,2707,29.95,2005-05-20,1
+Joey,Hill,wjhill3@gmail.com,Simpsonville,SC,3814,32.95,2005-09-22,1
+Sheila,Suppicich,ssuppicich@sjc.edu,Wethersfield,CT,2791,29.95,2005-05-27,1
+Mark,Manuel,manu2ma@aol.com,Tuscaloosa,AL,2943,29.95,2005-06-27,2
+Jamie,Surface,jamie_p_s@yahoo.com,Aloha,OR,2397,29.95,2005-04-15,2
+Harleen,Mittal,harleen.mittal@gmail.com,Fresno,CA,2935,29.95,2005-06-24,1
+Chelsea,Cunningham,margaux97@hotmail.com,Washington,DC,2759,29.95,2005-05-24,2
+Jeremy,Hart,jermhart@hotmail.com,Denver,CO,2515,29.95,2005-05-02,2
+Joseph,Rocco,JRoc3410@yahoo.com,Scranton,PA,3584,32.95,2005-09-07,1
+James,Rufo,jarufo1218@hotmail.com,Monroe,NY,2680,29.95,2005-05-17,2
+Zhanna,Davtyan,ZDAVTYAN@YAHOO.COM,Fort Worth,TX,2917,29.95,2005-06-20,1
+Dr Patti J,Hamilton,phamltn@bigfoot.com,Sarasota,FL,2345,29.95,2005-04-09,2
+Melva,Palacios,melvap4444@aol.com,Edinburg,TX,3692,67.95,2005-09-15,1
+Chris,Goodmacher,cgoodmac@gmail.com,Milpitas,CA,3707,32.95,2005-09-16,1
+Carol,Lewinter,harvandca2@yahoo.com,Chestnut Hill,MA,3296,29.95,2005-08-12,1
+Carolyn,Kras,ckras1@aol.com,St. Louis,MO,3135,33.2,2005-07-25,1
+Heather,Davis,HeatherED2001@aol.com,Orlando,FL,3677,32.95,2005-09-14,1
+Milton,Huston,mail4fun1@aol.com,Kansas City,KS,3107,29.95,2005-07-21,1
+Adrianna,Kripke,kripke@cal.berkeley.edu,La Jolla,CA,2971,33.2,2005-07-01,1
+Ross,Demain,rademain@artsci.wustl.edu,St. Louis,MO,3751,32.95,2005-09-19,2
+Christopher,Lange,christopher.lange@yale.edu,Bloomington,MN,2696,29.95,2005-05-19,2
+Tracy,Hawkins,drtracy@hawkmed.com,Waterville,ME,3091,66.4,2005-07-19,1
+Mark,Thompson,emtee@surfcity.net,Torrance,CA,2422,29.95,2005-04-19,1
+Raul,Catungal,emailmeover@yahoo.com,Larchmont,NY,2636,29.95,2005-05-13,2
+Jeffry,Dorocak,jdorocak@nd.edu,Parma,OH,2981,33.2,2005-07-05,2
+Matthew,Hancock,hancocm1@muohio.edu,Round Lake Beach,IL,2802,29.95,2005-05-30,2
+Jeff,Gaeto,jgaeto@yahoo.com,Lafayette,CA,3256,29.95,2005-08-08,2
+Denise,Kim,denisek8@yahoo.com,Lake Worth,FL,3671,32.95,2005-09-13,2
+Corey,Stewart,coreyestewart@hotmail.com,Denver,CO,3082,29.95,2005-07-18,1
+Malcolm,Wilkerson,malcolmwilkerson@hotmail.com,Round Rock,TX,2641,29.95,2005-05-14,2
+Christopher,Callahan,christo312@mac.com,Osterville,MA,2962,29.95,2005-06-30,1
+Heidi,Lawrence,heidilwr@netscape.net,New York,NY,2956,29.95,2005-06-28,1
+Igor,Nemirovsky,inemirovsky@gmail.com,San Francisco,CA,3494,29.95,2005-08-30,1
+Sang,Kim,davidk83@yahoo.com,Davis,CA,2372,29.95,2005-04-12,2
+Carol,Frey,cafrey@verizon.net,Sarasota,FL,2972,29.95,2005-07-02,1
+Colleen,Nagareda,leenybeen16@yahoo.com,Davis,CA,2500,29.95,2005-05-01,2
+Curren,David,currendavid@hotmail.com,New York,NY,2894,29.95,2005-06-16,1
+Brandon,Wilson,blwilson1919@yahoo.com,Scottsdale,AZ,2550,29.95,2005-05-05,2
+Jeffrey,Time,JTime118@aol.com,Bayside,NY,2862,29.95,2005-06-07,1
+Sarah,Morgan,joyfulprincess2000@yahoo.com,Ridgeland,MS,3577,32.95,2005-09-07,2
+George,Tomlinson,gtomlinson1111@hotmail.com,Hercules,CA,3095,29.95,2005-07-20,1
+Marian,Fundytus,marian.fundytus@pharma.com,Burlington,NJ,2576,29.95,2005-05-09,1
+Armen,Boyajian,armenbea@hotmail.com,Glendale,CA,3544,32.95,2005-09-04,2
+Samantha,Jay,samantha_jay@hotmail.com,Brookline,MA,2594,29.95,2005-05-10,1
+Ceyda,Azakli,ceyda.azakli@sylvania.com,Towson,MD,3024,29.95,2005-07-13,1
+James,Hagen,hagenjim@hotmail.com,Stamford,CT,3783,32.95,2005-09-21,2
+Andrea,Holley,holley420@yahoo.com,Galveston,TX,3745,32.95,2005-09-19,2
+Gale,Sham,g.sham.1@alumni.nyu.edu,Valencia,CA,2685,29.95,2005-05-18,2
+Jeffrey,Kosseff,jkosseff@umich.edu,Arlington,VA,3273,29.95,2005-08-09,2
+Benjamin S,Donley,judgmentalist@gmail.com,San Francisco,CA,3615,32.95,2005-09-10,2
+Shira,Lazinger,srl595@gwu.edu,Fairfield,CT,2717,29.95,2005-05-21,1
+Gail,Montemayor,gailmontemayor@yahoo.com,Jackson Heights,NY,2538,29.95,2005-05-04,2
+Thomas,Ritchie,tritchie23@gmail.com,Chicago,IL,2445,29.95,2005-04-24,1
+Dana,Disano,gardenddd@msn.com,St. Petersburg,FL,2879,29.95,2005-06-12,2
+Michael,Mulkey,mmulkey11@cox.net,Oklahoma City,OK,2509,29.95,2005-05-02,1
+Laura,Koch,laura@kochdelay.com,Oakland,CA,3016,29.95,2005-07-12,2
+Irene,Fitzgerald,Ivyheartspasta@gmail.com,Washington,DC,3181,29.95,2005-08-01,1
+Jim,Schiff,james_schiff@hotmail.com,New York,NY,3731,32.95,2005-09-19,1
+Marilisa,Janssen,marilisajanssen@hotmail.com,San Antonio,TX,3011,29.95,2005-07-11,2
+Christina,Wee,chad.chen@gmail.com,Irvine,CA,2579,29.95,2005-05-09,2
+Abigail,Licad,reddhudson@yahoo.com,Hayward,CA,3311,33.2,2005-08-14,1
+Elayne,Zalonis,tzandez4@earthlink.net,Kingwood,TX,3424,29.95,2005-08-25,2
+Elizabeth,Schlissel,girlkey2@aol.com,Rockville Centre,NY,3198,29.95,2005-08-03,2
+Neer,Lerner,nlerner34@hotmail.com,Isla Vista,CA,3548,32.95,2005-09-04,1
+Julie,Figueira,juliefigueira@hotmail.com,Lawrenceville,NJ,3555,32.95,2005-09-05,1
+Brian,Rodriguez,bmrodriguez61@earthlink.net,Denver,CO,3607,32.95,2005-09-09,1
+Betsy,Dortch,bets3172@aol.com,Nashville,TN,2789,29.95,2005-05-27,2
+Anthony,Capoccia,smpillar@oakland.edu,Oakland,MI,3013,29.95,2005-07-11,1
+Leslie,Fidance,leslie71478@cox.net,Las Vegas,NV,3312,29.95,2005-08-14,1
+Blake,Embry,beembr3@uky.edu,Lexington,KY,3787,32.95,2005-09-21,2
+Alicia,Heflin,MOMMYOFJOSEPH98@AOL.COM,Litchfield Park,AZ,3385,29.95,2005-08-21,1
+Pamela,Teysko,leslieteysko@sbcglobal.net,Riverside,CA,2786,59.9,2005-05-26,2
+Michael,Etheridge,metheridge@mac.com,Morrisville,NC,2384,29.95,2005-04-13,2
+Mitra,Boloorian,mitraboloorian@yahoo.com,La Jolla,CA,3757,32.95,2005-09-19,1
+Angela,Contreras,angelacontreras3@hotmail.com,Irving,TX,2766,29.95,2005-05-25,1
+Jennifer,Woodson,jenny.woodson@gmail.com,Arlington,VA,3326,29.95,2005-08-16,2
+John,Steinegger,johnsteinegger@gmail.com,New York,NY,3390,29.95,2005-08-21,1
+Xi,Deng,xjackd@yahoo.com,Oak Hill,VA,2437,29.95,2005-04-23,1
+Kristen,Jones,PJ36912@msn.com,Palo Alto,CA,3021,29.95,2005-07-12,1
+Sedrick,Walker,gigem20@hotmail.com,Houston,TX,3769,32.95,2005-09-20,1
+Robert,Rosin,arosin@pclient.ml.com,East Lansing,MI,3372,46.4,2005-08-19,1
+Brandon,Liebowitz,Cyber7400@Aol.com,Hewlett,NY,2798,29.95,2005-05-29,1
+Josh,Mauras,jamauras@aol.com,Fountain Valey,CA,2456,29.95,2005-04-25,2
+Alvi,Aggarwal,AlviAggarwal@yahoo.com,Arlington,VA,3400,29.95,2005-08-23,2
+Joshua,Jacoby,shuey4@yahoo.com,Monsey,NY,2819,29.95,2005-05-31,2
+Denise,Sipe,dsipe@ptd.net,Lancaster,PA,2424,29.95,2005-04-19,1
+Jeffrey,Armour,iexcite@hotmail.com,Lincoln,NE,3141,29.95,2005-07-25,1
+Jessica,Roberts,sweetness7104@yahoo.com,Carol Stream,IL,3293,33.2,2005-08-11,2
+Luke,Norris,norrlu01@gettysburg.edu,Gettysburg,PA,3848,32.95,2005-09-26,2
+Frank,Hetland,thehetland5@yahoo.com,Frisco,TX,3535,29.95,2005-09-02,1
+Mina,Chang,jeep_wrangler45@yahoo.com,San Jose,CA,2365,29.95,2005-04-11,2
+Tanvir,Sandhu,brownwarrior430@aim.com,Brookville,NY,3391,29.95,2005-08-21,1
+Vivian,Orizu,v.orizu@umiami.edu,Miami,FL,2898,36.45,2005-06-18,2
+Michael,Savetsky,darkhaze3@aol.com,Cedarhurst,NY,2857,29.95,2005-06-06,2
+John,Jones,aidajones@gmail.com,Redwood City,CA,3049,59.9,2005-07-15,2
+Darryl K,Barnes,lcd0@aol.com,Huntley,IL,3725,32.95,2005-09-18,1
+Elisabeth,Romfh,eromfh@aol.com,Lake Worth,FL,2767,29.95,2005-05-25,1
+Juliet,Rudie,julie.rudie@ci.stpaul.mn.us,Hugo,MN,3097,29.95,2005-07-20,2
+Mary E.,Packer,byuperudancer@aol.com,Glendale,AZ,3659,32.95,2005-09-12,1
+Thomas,Molloy,tmolloy@loyola.edu,Baltimore,MD,3329,29.95,2005-08-16,2
+Christian,Dockum,cdockum@hotmail.com,New York,NY,2496,29.95,2005-05-01,1
+Sean,Jessee,jessp@rhodes.edu,Memphis,TN,3388,29.95,2005-08-21,2
+Darren,Azman,dta@comcast.net,Waltham,MA,2355,29.95,2005-04-10,1
+Jeffrey,Herrington,jeherr@juno.com,Lexington,KY,2708,29.95,2005-05-20,2
+Frances,Hanks,brewer_729@hotmail.com,Austin,TX,3576,32.95,2005-09-07,1
+Ryan,Mansfield,mrryanmansfield@yahoo.com,Manhattan Beach,CA,3404,29.95,2005-08-23,1
+Eric,Whitney,poli_sciguy@hotmail.com,Mesa,AZ,3610,32.95,2005-09-09,2
+Jeff,Turnbull,turnbjef711@yahoo.com,Downs,IL,2725,29.95,2005-05-22,1
+Jeffrey,Svehla,j-svehla@northwestern.edu,Evanston,IL,3875,36.2,2005-09-27,1
+Kate,Hudson,khudson@aha.org,Washington,DC,3890,32.95,2005-09-29,2
+George,Parker,ghparker4@comcast.net,Palo Alto,CA,3345,29.95,2005-08-17,1
+Bruce,Milstein,steph.milstein@gmail.com,Wynnewood,PA,2882,29.95,2005-06-13,2
+Raegen,Richard,raegenrichard@gmail.com,Baton Rouge,LA,2578,29.95,2005-05-09,1
+Gregg,Mullens,drgmullens@comcast.net,Gill,MA,3128,33.2,2005-07-24,2
+Kimberly,Wah,kawah@ucdavis.edu,Davis,CA,2418,29.95,2005-04-18,1
+William M.,Thompson,wmt1978@hotmail.com,Douglasville,GA,3786,32.95,2005-09-21,2
+Suzanne,Lim,slim@book.com,New York,NY,3334,29.95,2005-08-16,2
+David,Ciccarello,rundlc15@aol.com,Fort Myers,FL,2658,29.95,2005-05-16,1
+Ashley,Graham,gatorgirl0327@comcast.net,Naples,FL,3470,29.95,2005-08-29,2
+Brianna,Donohue,gators19@ufl.edu,Newberry,FL,3382,29.95,2005-08-20,2
+David,Cappell,davidcappell@yahoo.com,Edison,NJ,3792,29.95,2005-09-21,1
+Anna,Rogers,Annabell18@hotmail.com,Starkville,MS,3798,32.95,2005-09-21,2
+Max,Vargas,vargas95111@yahoo.com,Martinez,CA,3251,33.2,2005-08-08,1
+Michael,Simmons,mgsimmons@gmail.com,Provo,UT,2481,29.95,2005-04-29,2
+Jenny,Chung,jenny_h_chung@hotmail.com,Lincroft,NJ,2760,29.95,2005-05-24,1
+Joyce,Feuille,jlouannfeuille@yahoo.com,Glendale,CA,3253,29.95,2005-08-08,1
+Mark,Gailey,junkfiend@hotmail.com,Chandler,AZ,3212,29.95,2005-08-04,1
+Jungyoon,Byun,jbyun@math.upenn.edu,Philadelphia,PA,2954,33.2,2005-06-28,2
+Andrew,Chiang,andrewchiang82@hotmail.com,Mississauga,ON,3712,32.95,2005-09-16,1
+Robert,Abboud,Hollywood@socal.rr.com,Santa Clarita,CA,2580,29.95,2005-05-10,1
+Shirley,Pettit,shirley_pettit@hotmail.com,Louisville,KY,2430,29.95,2005-04-21,2
+Crystal,Cronshaw,flo_cronshaw@msn.com,East Meadow,NY,2780,29.95,2005-05-26,2
+Reema,Patel (room 210),reema501@yahoo.com,Phoneix,AZ,3139,29.95,2005-07-25,1
+James,Forbes,jforbesua@yahoo.com,Orem,UT,2963,29.95,2005-06-30,1
+Ryan,Dimillo,rad7@geneseo.edu,Geneseo,NY,3428,29.95,2005-08-25,2
+Jared,Behr,jsb383@nyu.edu,Melville,NY,3717,32.95,2005-09-17,1
+Richard,Chang,rcmail@comcast.net,Newton Highlands,MA,2479,29.95,2005-04-29,1
+Jennifer,Joseph,pinkswizlstik@gmail.com,Dix Hills,NY,2797,29.95,2005-05-29,1
+Adam,Tartakovsky,adam.tea@gmail.com,Goleta,CA,3451,33.2,2005-08-27,1
+Alan,Crede,crede@bc.edu,Westwood,MA,3100,29.95,2005-07-20,2
+Jim,Woodruff,James.woodruff@aerospace.gatech.edu,Acworth,GA,2619,29.95,2005-05-12,2
+Sussette,Gonzales,susiig@aol.com,Miami,FL,3518,29.95,2005-08-31,2
+Marissa,Cunningham,sistermarissa@hotmail.com,Cobourg,ON,3154,36.45,2005-07-27,1
+Mary Elizabeth,Robertson,mer0928@mail.ecu.edu,Washingon,NC,3536,32.95,2005-09-02,1
+Sherry,Heinz,creativebug32@yahoo.com,Midland Park,NJ,2777,29.95,2005-05-26,2
+Casey,Khan,casey.khan@aps.com,Mesa,AZ,3221,33.2,2005-08-04,2
+Emily,Uhre,epu@alumni.duke.edu,Potomac,MD,2941,33.2,2005-06-26,2
+Jessica,Irwin,messi_jessi@hotmail.com,Cedar City,UT,2623,29.95,2005-05-12,2
+Sharonda,Lebrun,slebr001@fiu.edu,Miami,FL,3341,29.95,2005-08-17,2
+Anatoliy,Neymark,kidon_amin@netzero.com,San Francisco,CA,2805,29.95,2005-05-30,1
+William,Welcher,philosopher@ucsc.edu,Santa Cruz,CA,3833,32.95,2005-09-25,2
+Matthew,Fay,mattyfay@gmail.com,New York,NY,3482,33.2,2005-08-29,2
+Natasha,James,njames01@comcast.net,Albuquerque,NM,2562,29.95,2005-05-07,2
+C.J.,Stimson,cj.stimson@vanderbilt.edu,Crystal Beach,FL,2692,29.95,2005-05-19,1
+Patrice,Kong,patricekong@hotmail.com,Vancouver,BC,3258,29.95,2005-08-08,2
+Renee,Kries,kriesf@aol.com,Chicago,IL,2807,29.95,2005-05-30,2
+Philip,Omalley,philomalley@blueyonder.co.uk,Cheltenham,ZZ,2373,29.95,2005-04-12,2
+Jong,Park,generalwebmaster@yahoo.com,Stanford,CA,2404,29.95,2005-04-16,1
+Russell,Reichman,rrussty@yahoo.com,Glen Ellyn,IL,3023,29.95,2005-07-13,1
+Roland,Chi,roland.chi@gmail.com,Garden Grove,CA,2573,29.95,2005-05-09,2
+Vinay,Gupta,VKG@DPS.STATE.NY.US,Wappingers Falls,NY,2517,29.95,2005-05-03,1
+David,James,djamesmarkey@yahoo.com,Danville,CA,3241,29.95,2005-08-07,2
+Sungil,Cho,sichoh@empal.com,Seoul,,3835,32.95,2005-09-25,1
+Jana,Leachman,jana@idahovandals.com,Lewiston,ID,2926,29.95,2005-06-22,2
+Per,Freitag,surgeryprofessor@yahoo.com,Springfield,IL,2380,29.95,2005-04-13,2
+James,Jarreau,jamesjarreau@aol.com,Oscar,LA,2409,29.95,2005-04-17,1
+Ryan,Glenn,rglenn26@yahoo.com,Redwood City,CA,3473,29.95,2005-08-29,1
+Shira,Auerbach,shira_auerbach@yahoo.com,New York,NY,3369,29.95,2005-08-18,1
+Doris,Hickerson,dakh6@yahoo.com,Greenlawn,NY,2778,29.95,2005-05-26,2
+Angelo C.,Baldi,acb1ppl@aol.com,Atlanta,GA,3878,32.95,2005-09-28,2
+Bret,Christiansen,btc6677@ksu.edu,Manhattan,KS,3565,32.95,2005-09-06,2
+Joshua,Walker,jtwalk@gmail.com,Washington,DC,2442,29.95,2005-04-24,1
+Katie,Lyons,KatieJean11@aol.com,Austin,TX,3051,29.95,2005-07-15,2
+Erlinda,Reyes,lynrey11@aol.com,Hamilton,OH,3000,33.2,2005-07-09,1
+Tim,Collins,tim86collins@yahoo.com,New York,NY,2584,29.95,2005-05-10,2
+Richard,Tran,dbzlakerspokemonfreak@yahoo.com,El Monte,CA,2600,29.95,2005-05-10,1
+Roger,Pudlin,rp028674@baruch.cuny.edu,New York,NY,3711,36.2,2005-09-16,2
+Michelle,Hodges,mhodges@ddmlawyers.com,Laguna Hills,CA,3504,29.95,2005-08-31,2
+Joel,Gary,lennygary@sprintmail.com,Houston,TX,2816,29.95,2005-05-31,1
+Ella,Sazonov,sazonov@uiuc.edu,Wheeling,IL,2757,29.95,2005-05-24,1
+Sean,Belfi,seanyb4@yahoo.com,New York,NY,2382,29.95,2005-04-13,1
+Whitney,Roland,whitters18@yahoo.com,Evanston,IL,2554,29.95,2005-05-06,1
+Bradley,Saull,brad_saull@hotmail.com,Arlington,VA,3343,29.95,2005-08-17,1
+Monique,Bair,mabt@lehigh.edu,Emerson,NJ,2822,29.95,2005-05-31,1
+Jennifer,Kirkland,jekirkland@vassar.edu,Poughkeepsie,NY,3490,33.2,2005-08-30,1
+Keyur,Patel,kbear4143@yahoo.com,Lakeland,FL,2803,29.95,2005-05-30,2
+Jay,Cohen,jbcohen@gmail.com,Dallas,TX,2840,10,2005-06-02,2
+Alison,Lienau,alison.lienau@pepperdine.edu,Phoenix,AZ,2639,29.95,2005-05-14,1
+Aryeh,Schneider,Rainking10@juno.com,New York,NY,2572,29.95,2005-05-09,1
+Justin,Boruchov,jborucho@indiana.edu,Bloomington,IN,2843,29.95,2005-06-03,2
+Angel,Hall,angel.hall2@sbcglobal.net,Houston,TX,2666,29.95,2005-05-16,1
+Aya,Winston,ayawinston@hotmail.com,Palo Alto,CA,3055,29.95,2005-07-16,2
+Kevin,Denaro,kjd223@nyu.edu,West Windsor,NJ,2630,29.95,2005-05-13,2
+Brina,Jones,brinanyc@hotmail.com,Brooklyn,NY,3884,32.95,2005-09-28,2
+Amy,Bouque,bouquea@dteenergy.com,Troy,MI,3159,29.95,2005-07-28,2
+Camilo,Becdach,becdach@fas.harvard.edu,El Camino Village,CA,3377,29.95,2005-08-19,1
+Brittany,Citizen,B1CITIZEN@YAHOO.COM,Denver,CO,3006,29.95,2005-07-11,2
+Lana,Krasnyansky,Lana_0809@hotmail.com,New York,NY,2574,29.95,2005-05-09,1
+Louisa,Bussing,l_bussing_1999@yahoo.com,Redwood City,CA,3489,29.95,2005-08-30,1
+James,Craig,jpcrg@yahoo.com,Costa Mesa,CA,3415,59.9,2005-08-24,1
+Jamie,Gavigan,jcgavigan@gmail.com,New York,NY,3257,29.95,2005-08-08,2
+Nicholas,Starkey,nickstarkey@yahoo.com,Milwaukie,OR,2989,29.95,2005-07-07,2
+Michael,Atadika,atadikam@yahoo.com,Millwood,NY,3020,29.95,2005-07-12,1
+Stanley,Hagyard,roundthingsroll@yahoo.com,Brooklyn,NY,3123,29.95,2005-07-22,2
+Cassie,Palmer,cassie.palmer@gmail.com,Cypress,CA,3693,32.95,2005-09-15,1
+Dennis,Barisik,dbarisik@gmail.com,Ithaca,NY,3764,29.95,2005-09-20,2
+Carrie,Goff,sweets3131@aol.com,New York,NY,2585,29.95,2005-05-10,2
+Jeremy,Hall,JHall1@gwu.edu,Magnolia,TX,2837,29.95,2005-06-02,1
+Bryan,Barton,bryanb2002@aol.com,Grapevine,TX,2628,29.95,2005-05-12,2
+George,Enninful,enninful@hotmail.com,Fargo,ND,3117,29.95,2005-07-22,1
+David,Washo,david_p_washo@hotmail.com,New York,NY,2458,29.95,2005-04-25,1
+Daniel,Zuckman,daniel@zuckinc.com,New York,NY,2645,29.95,2005-05-15,2
+Rebekah,Lusk,rdlusk@gmail.com,Hyattsville,MD,3240,29.95,2005-08-07,2
+David,Aldrete,rodzdavid@hotmail.com,El Paso,TX,2530,29.95,2005-05-04,1
+Kipchoge,Ryan,kip_ryan@yahoo.com,A P O    a E,ZZ,2871,29.95,2005-06-09,1
+Melissa,Silverman,ms7pj@virginia.edu,Charlottesville,VA,3780,32.95,2005-09-20,2
+Charlene,Kuo,charlene1340@aol.com,Jersey City,NJ,2472,29.95,2005-04-27,2
+Rebecca,Licht,rebeccalicht@berkeley.edu,Berkeley,CA,3362,59.9,2005-08-18,2
+Nehal,Madhani,nehal1@gmail.com,Evanston,IL,2983,29.95,2005-07-05,1
+Sung-Yoon,Woo,woosy@kbstar.co.kr,Seoul,,3148,29.95,2005-07-26,1
+Emily,Sparkman,emily@sparkmanindustries.com,Victoria,TX,2333,29.95,2005-04-07,1
+Vikram,Peters,fcporino@yahoo.com,Westminster,CA,2947,29.95,2005-06-27,1
+Cheryl,Roberts,girlof32@yahoo.com,Quincy,FL,3808,36.2,2005-09-22,1
+Philip,Segal,philxcool@aol.com,Woodland Hills,CA,2689,29.95,2005-05-18,1
+Robin,Morse,rm909@nyu.edu,New York,NY,2790,29.95,2005-05-27,2
+Erin,Folkenroth,efolkenroth@charter.net,Keller,TX,2724,29.95,2005-05-22,1
+Cheryl,Fakhry,CherylFakhry@hotmail.com,Washington,DC,3484,29.95,2005-08-30,2
+Michael,Blum,xblumx@gmail.com,Miami,FL,3881,32.95,2005-09-28,2
+David,Hill,davidallenhill@yahoo.com,Las Vegas,NV,2783,29.95,2005-05-26,1
+David,Fryman,dfryman@gmail.com,Plainview,NY,3463,33.2,2005-08-28,1
+Craig,Gertsch,craigleroyg@yahoo.com,Berkeley,CA,2581,59.9,2005-05-10,1
+David,Resnick,dsres@umich.edu,North Woodmere,NY,3195,29.95,2005-08-02,1
+Jose,Lopez-Gallego,calipolo18@yahoo.com,Atlanta,GA,2654,29.95,2005-05-16,1
+Mark,Koster,mkoster8@comcast.net,Palatine,IL,3111,29.95,2005-07-22,1
+Shomik,Panda,spanda4417@aol.com,London,,3869,32.95,2005-09-27,2
+Jade,Logan,jadealexis@gmail.com,Atlanta,GA,3839,32.95,2005-09-25,2
+Janna,Pate,j.m.pate@tcu.edu,League City,TX,2949,33.2,2005-06-27,2
+Erin,Buechler,gorilladust22@aol.com,Lansing,MI,2991,29.95,2005-07-07,1
+Minna,Atwal,chiguy1515@yahoo.com,Chicago,IL,2620,29.95,2005-05-12,1
+Erin,Abernethy,erinabernethy@earthlink.net,Cornelius,NC,2390,29.95,2005-04-14,2
+Carrie,Gamsey,cgg311@aol.com,Atlanta,GA,3060,29.95,2005-07-17,2
+Cheney,Huang,vthuan@lsu.edu,Baton Rouge,LA,2831,29.95,2005-06-01,2
+John,Ashley,john.f.ashley@gmail.com,Boulder,CO,3292,29.95,2005-08-11,2
+Bernadette,Mccarthy,jbmccarthy@sbcglobal.net,Naperville,IL,2859,29.95,2005-06-06,1
+Barbara,Nicholson Freeman,bfreeman@naums.net,Venus,TX,2671,29.95,2005-05-17,2
+Janna,Jamil,jjamil@berkeley.edu,El Cajon,CA,2700,29.95,2005-05-19,2
+Paul,Liu,liup@uci.edu,Irvine,CA,3414,29.95,2005-08-24,2
+Dan,Munro,dmunro@gmail.com,Gold Canyon,AZ,3094,29.95,2005-07-19,2
+Kara,Wild,kara_wild@dslextreme.com,North Hollywood,CA,3307,29.95,2005-08-13,1
+Dr. William W.,Wood,doctorwwwood@mac.com,Rockford,IL,3883,32.95,2005-09-28,1
+Naila,Iscandari,naila@stanfordalumni.org,Hayward,CA,2477,29.95,2005-04-28,2
+Dawn,Butler,eyeonprz@stanford.edu,Stanford,CA,3239,29.95,2005-08-07,1
+Bridgchelle,Golden,bridgchelleg@yahoo.com,Winchester,KY,3733,32.95,2005-09-19,2
+Sunyoung,Yoo,yepuna@hotmail.com,Edgewater,NJ,2519,29.95,2005-05-03,2
+Rachel,Williams,juicetiger18@yahoo.com,Arlington,VA,3467,29.95,2005-08-29,1
+Joe,Amaral,JoeyPlates26@aol.com,Paramus,NJ,3524,29.95,2005-09-01,1
+Michael,Knott,mknott@interaccess.com,Beaverton,OR,2916,29.95,2005-06-20,1
+Anne,Winnick,awinnick@greenwichlibrary.org,Greenwich,CT,2952,29.95,2005-06-28,2
+Aliyah,Abdullah,aliyahsabreena@aol.com,Stockton,CA,2678,29.95,2005-05-17,2
+William,Proetta,proettwi@shu.edu,Lincroft,NJ,3613,32.95,2005-09-09,1
+Sarah,Martino,sarah.martino@gmail.com,Washington,DC,3554,32.95,2005-09-05,1
+Patricia,Sojka,pajeanka@earthlink.net,Moorhead,MN,2865,29.95,2005-06-07,2
+Leor,Mellul,leor_mellul@yahoo.com,Skokie,IL,2583,29.95,2005-05-10,1
+Marija,Greenlee,smgreenlee@msn.com,Edina,MN,3099,29.95,2005-07-20,1
+Elizabeth,Perry,eap02e@fsu.edu,Tallahassee,FL,2339,59.9,2005-04-09,2
+Nina,Yocco,NY559@aol.com,Pittsburgh,PA,2988,33.2,2005-07-06,1
+David,Kowalski,efpdave@yahoo.com,Arlington,VA,3171,29.95,2005-07-29,2
+Gabriel,Diaz,gabriel_S_diaz@yahoo.com,Santa Ana,CA,2441,29.95,2005-04-23,2
+Christine,Nguyen,htbnguyen@hotmail.com,Los Angeles,CA,3038,29.95,2005-07-14,2
+Peter,Alizio,poot98@aol.com,New York,NY,2785,29.95,2005-05-26,2
+Kathleen,Morley,kathleen.morley@sju.edu,West Chester,PA,2961,29.95,2005-06-29,2
+Hamdi,Khalifa,hamdikhalifa13@yahoo.com,New York,NY,2522,29.95,2005-05-03,1
+Jennifer,Rojanavanij,Jenniferr@sai.samsung.com,La Mirada,CA,3357,33.2,2005-08-18,2
+Linda,Shaul,lindashaul@att.net,Winterville,NC,2866,29.95,2005-06-07,1
+Christina,Poulsen,clp@alum.dartmouth.org,New York,NY,3209,29.95,2005-08-04,1
+Alarice,Hansberry,allyreese@gmail.com,Valley Park,MO,3129,29.95,2005-07-24,1
+Timia,Moore,brian_b_alexander@yahoo.com,Washington,DC,2948,29.95,2005-06-27,1
+Grace,Phillip,Naomi1108@aol.com,Arverne,NY,2758,29.95,2005-05-24,2
+Lauren,Jacobellis,Lasse182@ufl.edu,Gainesville,FL,3032,29.95,2005-07-13,2
+Melissa,Stroud,melissastroud@mail.utexas.edu,Southlake,TX,2722,29.95,2005-05-22,2
+Christopher,Hanson,christopher.hanson@yale.edu,Longwood,FL,2533,29.95,2005-05-04,2
+Mark,Hippenstiel,hippenstiel@aol.com,Norfolk,VA,3236,29.95,2005-08-06,2
+Marc,Laurent,marclaurent@mn.rr.com,Minneapolis,MN,2734,29.95,2005-05-23,2
+Jamie,Chen,jamie_j_chen@yahoo.com,Santa Ana,CA,2407,29.95,2005-04-16,2
+Sharon,Hollensbe,shollensbe@olypen.com,Port Townsend,WA,3270,29.95,2005-08-09,2
+Ann,Muehlberger,asm@eigertx.com,Wichita Falls,TX,2413,29.95,2005-04-18,1
+Robin,Campbell,rec237@nyu.edu,Frederick,MD,2655,29.95,2005-05-16,2
+Ross,Culpepper,fliprgc@yahoo.com,Austin,TX,3749,32.95,2005-09-19,2
+Julie,Hixson,julie_1_02@hotmail.com,Greenville,MO,2826,29.95,2005-06-01,1
+Laura,Dillenberger,ldillenberger@yahoo.com,Hutto,TX,3244,29.95,2005-08-07,2
+Nancy,Teng,nancyyteng@yahoo.com,Austin,TX,3682,32.95,2005-09-14,2
+Warren J,Rosenberg,wrosenberg@deltahomeloans.com,Los Angeles,CA,3756,36.2,2005-09-19,2
+Jason,Wysokowski,jwysokowski@comcast.net,Roselle Park,NJ,2996,29.95,2005-07-08,1
+Valerie,Chaffin,vchaffin@hunton.com,Raleigh,NC,2570,29.95,2005-05-09,1
+Michael,Scroggins,michaeljasonscroggins@yahoo.com,Reedley,CA,3173,29.95,2005-07-31,1
+Vivian,Lei,vivian715@hotmail.com,Arlington,VA,3266,29.95,2005-08-09,1
+Ana,Perez,anamperez@gmail.com,Washington,DC,3166,29.95,2005-07-29,1
+Sherli,Yeroushalmi,sy236@cornell.edu,Ithaca,NY,3734,32.95,2005-09-19,2
+Leya,Nelson,leyanelson@yahoo.com,Mililani,HI,3714,32.95,2005-09-16,1
+Elena M.,Batalla,elena.batalla@jpmchase.com,New York,NY,3743,32.95,2005-09-19,1
+Darrell,Bratton,hptdyber@bellsouth.net,Miami,FL,2548,29.95,2005-05-05,1
+Ms. Simone,White,bogus@aol.com,Bastrop,TX,3872,32.95,2005-09-27,2
+Stan,Baptista,sbaptista@yahoo.com,Honolulu,HI,2821,29.95,2005-05-31,2
+Matthew,Carlton,matthew.carlton@gmail.com,Bloomington,IN,3741,32.95,2005-09-19,2
+Julia,Yolles,julia_a_yolles@yahoo.com,Falls Church,VA,3421,29.95,2005-08-24,1
+Charlotte,Ashun,nefieadzo@netzero.com,Bronx,NY,2690,29.95,2005-05-18,2
+Uta-Maria,Uecker,uecker@planet-utamaria.de,Hamburg,,2531,29.95,2005-05-04,1
+Elizabeth Ann,Dietrich,eadietrich1@yahoo.com,Athens,GA,3631,32.95,2005-09-11,1
+Jing,Tang,annie_tang2001@hotmail.com,Shanghai,,3399,29.95,2005-08-23,1
+Andy,Liu,fengpingliu@yahoo.com,San Jose,CA,3447,29.95,2005-08-26,1
+Tasha`,De Miguel,TashadeMiguel@aol.com,Miami,FL,3156,29.95,2005-07-27,1
+Matthew,Thurman,machina@mail.utexas.edu,Austin,TX,3430,33.2,2005-08-25,1
+Timothy,Carey,Tima227@aol.com,Wheaton,IL,3641,32.95,2005-09-12,1
+Danielle,Villacis,dvillaci@gmu.edu,Sterling,VA,3673,32.95,2005-09-14,1
+Kristin,Fahrenholz,kfahrenholz@gmail.com,Los Gatos,CA,2602,29.95,2005-05-10,2
+Adam,Gerston,agerston@gmail.com,New York,NY,2489,29.95,2005-04-30,2
+Kathryn,Manos,KathrynLA@aol.com,Studio City,CA,2931,29.95,2005-06-23,1
+Christian,Johnson,tjjohnson3333@hotmail.com,Portland,OR,3398,29.95,2005-08-22,1
+Sumia,Abubaker,smya97@gmail.com,Los Angeles,CA,3423,29.95,2005-08-24,2
+Karina,Barska,chookgek@yahoo.com,Albany,CA,2540,29.95,2005-05-05,2
+Dorothy  R.,Nederman,dorothy1@gwu.edu,Washington,DC,3526,29.95,2005-09-01,2
+Ron,Mathews,mathews_ron@yahoo.com,Sunnyvale,CA,2625,29.95,2005-05-12,2
+Kacy E,Wiggum,kwiggum@messagelabs.com,New York,NY,3627,32.95,2005-09-11,1
+Jim,Abely,abelyjb@bc.edu,Allston,MA,3323,29.95,2005-08-16,2
+Sarah,Petrie,petrie_s@yahoo.com,Cincinnati,OH,3656,32.95,2005-09-12,1
+Joel,Corbett,jhcorbett@hotmail.com,Boston,MA,2603,29.95,2005-05-10,1
+Elizabeth,Davis,lizzie323@earthlink.net,Bryan,TX,2738,29.95,2005-05-23,2
+Erin,Mccormick,ekmccormick22@yahoo.com,Reston,VA,2491,29.95,2005-04-30,2
+Sally,Mulder,skatblueeyes@aol.com,Glendale,AZ,2349,29.95,2005-04-10,1
+Nicole,Blake,NicoleBlake33@hotmail.com,Santa Cruz,CA,3702,32.95,2005-09-15,2
+Elizabeth,Mcquinn,elizabeth.mcquinn@gmail.com,Austin,TX,3594,32.95,2005-09-08,2
+Sana,Ehtisham,sle4@duke.edu,Bath,NY,2884,29.95,2005-06-13,1
+Jorja,Lindsay,jorjalindsay@hotmail.com,Lauderdale Lakes,FL,2953,33.2,2005-06-28,2
+Leslie,Pugh,lslpgh@aol.com,Denver,CO,3403,29.95,2005-08-23,1
+Manar,Elmashni,heartly15@aol.com,San Bruno,CA,3033,29.95,2005-07-13,1
+Ben,Sislen,bensislen1@hotmail.com,Chevy Chase,MD,3435,29.95,2005-08-25,2
+Beatrice,Tester,beatricetester@aol.com,Brooklyn,NY,2668,29.95,2005-05-17,2
+Eric,Gilman,EGILMAN@U.WASHINGTON.EDU,Everett,WA,2729,29.95,2005-05-22,2
+Michael,Kopp,Metrxpowerhouse@aol.com,Statesboro,GA,3176,29.95,2005-07-31,1
+Muhammad,Shahriar,mshahria@yahoo.com,Bayonne,NJ,2978,29.95,2005-07-04,1
+Gabriel,Zucker,dzprofundis@yahoo.com,New York,NY,2462,29.95,2005-04-26,2
+Melissa,Matos,tygerliiiy@aol.com,Artesia,CA,2457,29.95,2005-04-25,2
+Stephanie,Zosak,s-zosak@northwestern.edu,Evanston,IL,2604,29.95,2005-05-10,1
+Stella,Grishpan,sgrishpan@netscape.net,Brooklyn,NY,3056,29.95,2005-07-16,1
+Vincent,Nguyen,funvince@hotmail.com,Renton,WA,2987,29.95,2005-07-06,1
+Jared,Penven,JPenven@yahoo.com,Pittsgrove,NJ,2853,29.95,2005-06-04,2
+Michael,Folin,mfolin@gmail.com,Corvallis,OR,3775,32.95,2005-09-20,2
+Zoumanan,Debe,dzoumich@yahoo.com,Majuro,MH,2812,29.95,2005-05-30,1
+Casie,Husby,casroo@msn.com,Hemet,CA,2955,33.2,2005-06-28,1
+Timothy,Hollingsworth,TSHTSH@aol.com,Davis,CA,2537,29.95,2005-05-04,2
+Vijay,Madduri,phidelt1918@gmail.com,Norman,OK,2796,29.95,2005-05-29,1
+Suzanne,Ruffa,suzanne.ruffa-dolen@usmagazine.com,New York,NY,2646,29.95,2005-05-15,1
+Talitha,Michalow,tmichal@emory.edu,Atlanta,GA,3036,59.9,2005-07-14,2
+Ashley,Rathbun,aerathbun@ucdavis.edu,Davis,CA,2503,29.95,2005-05-02,1
+Gregory,Flood,gregflood@aol.com,Washington,DC,2435,29.95,2005-04-22,2
+Sunny,Hwang,snh2001@columbia.edu,Pasadena,CA,3299,29.95,2005-08-12,1
+Vincent,Rossomando,virossomando@ursinus.edu,Collegeville,PA,3646,32.95,2005-09-12,2
+Kyle,Phillips,cfkicker@hotmail.com,Austin,TX,3028,29.95,2005-07-13,2
+Jennifer,Falcon,jennylo201@aol.com,Brooklyn,NY,3657,32.95,2005-09-12,2
+David,Strasburg,dstras@gmail.com,Mercer Island,WA,3806,32.95,2005-09-22,1
+Chad,Reid,reidcm@yahoo.com,Honolulu,HI,3058,33.2,2005-07-16,1
+Emily,Tejerina,et02c@fsu.edu,Tallahassee,FL,2753,29.95,2005-05-24,2
+Janine,Lebofsky,jl2250@barnard.edu,New York,NY,2378,29.95,2005-04-12,2
+Kathleen,Fitzgerald,smilemffn@hotmail.com,Austin,TX,2374,29.95,2005-04-12,1
+Suad,Salem,susu_sweet_03@yahoo.com,St.thomas,VI,2405,29.95,2005-04-16,1
+Laurie,Stempler,Laurie_Stempler@hotmail.com,Scarsdale,NY,2781,29.95,2005-05-26,2
+William,Page,will_page21@hotmail.com,Houston,TX,3462,33.2,2005-08-27,2
+Charles,Ang,chunweiang@hotmail.com,Vancouver,BC,3598,32.95,2005-09-08,1
+Win,Thein,dohegv@yahoo.com,Berkeley,CA,3274,29.95,2005-08-09,2
+Lauren,Lackie,llackie@gmail.com,New York,NY,2545,29.95,2005-05-05,1
+Michael J,Ryan,mryan@wesleyan.edu,Lancaster,PA,3699,32.95,2005-09-15,1
+Marcia,Becker,Fbecker880@aol.com,Tamarac,FL,3815,32.95,2005-09-22,2
+Tipparat,Plurksathaporn,jane_p@comcast.net,Santa Clara,CA,2998,29.95,2005-07-08,2
+Eugene,Cheatham,echeathamjr@aol.com,Miami,FL,3647,32.95,2005-09-12,1
+Samara,Zimmerman,sczimme@emory.edu,Coral Springs,FL,3840,32.95,2005-09-25,1
+Jennifer,Meresman,jemeresman@hotmail.com,Chicago,IL,2836,29.95,2005-06-02,1
+Alex,Aspiazu,alejandra@cmu.edu,Pittsburgh,PA,3567,32.95,2005-09-06,1
+Daniel,Abromson,drabr@hotmail.com,Jackson,WY,3529,32.95,2005-09-01,2
+Dawn,Kurz,dmkurz@hotmail.com,New York,NY,2494,29.95,2005-05-01,1
+Jacob,Wunsch,jacobwunsch@hotmail.com,New York,NY,2523,29.95,2005-05-03,1
+Amy,Willey,amy_willey@hotmail.com,Alma,MI,3706,32.95,2005-09-16,2
+Edward,Doherty,ireallylike22@excite.com,Maple Glen,PA,2621,29.95,2005-05-12,1
+Mary,Dunn,mary5982@aol.com,Vienna,VA,3174,29.95,2005-07-31,1
+Ando,Hacopian,andohacopian@yahoo.com,La Crescenta,CA,3379,29.95,2005-08-19,2
+Deanna,Cohen,parissdatc@aol.com,Parkland,FL,3289,29.95,2005-08-11,1
+Molly,Dambra,molly_dambra@hotmail.com,Washington,DC,2756,29.95,2005-05-24,2
+Jeremy,Uliss,jju83@aol.com,Holliswood,NY,2957,33.2,2005-06-28,2
+Scott,Carroll,scottmcarroll@gmail.com,Bucheon-shi,ZZ,2616,29.95,2005-05-11,2
+Lily,Ho,lily.ho@gmail.com,Sacramento,CA,2428,29.95,2005-04-21,1
+Benjamin,Mckay,ben.mckay@pciaa.net,Arlington,VA,3558,32.95,2005-09-05,1
+Ana Lucia,Hurtado,caribelita@yahoo.com,Austin,TX,3444,29.95,2005-08-26,1
+Diana,Cioppa,dacioppa@gmail.com,Bronxville,NY,3413,29.95,2005-08-24,2
+Mary,Hernandez,mhern006@student.ucr.edu,San Bernardino,CA,2547,29.95,2005-05-05,2
+Armita,Bahador,armita@uvic.ca,Victoria,BC,3885,65.9,2005-09-28,2
+Janet,Comin,richter221@msn.com,Seattle,WA,3721,32.95,2005-09-17,1
+Caroline,Vu,caroline.q.vu@gmail.com,Glenmont,NY,2969,29.95,2005-07-01,1
+Juan,Castellanos,jcastellanos@nls-la.org,North Hills,CA,2719,29.95,2005-05-21,2
+Jennifer,Chudy,jechudy@yahoo.com,Tolland,CT,2497,29.95,2005-05-01,1
+Michael,Turi,mturi51@hotmail.com,Stony Brook,NY,2346,29.95,2005-04-09,2
+Daniel,Kapelovitz,kapelovitz@hotmail.com,West Hollywood,CA,3597,32.95,2005-09-08,2
+Kelly,Johnson,kmjohn73@yahoo.com,Glen Burnie,MD,2806,29.95,2005-05-30,2
+Derek,Wilson,thederekwilson@gmail.com,Waxahachie,TX,3057,29.95,2005-07-16,1
+Tamara,Stewart,reinavida@yahoo.com,Washington,DC,2844,29.95,2005-06-03,1
+Gary,Wang,meteor_blue@yahoo.ca,Vancouver,BC,2958,29.95,2005-06-28,1
+Staci,Walton,swalton@tamu.edu,College Station,TX,2652,29.95,2005-05-16,2
+Monica,Voicu,mvoicu@ucla.edu,San Jose,CA,2997,29.95,2005-07-08,2
+Aimee,Lipkis,alipkis@indiana.edu,Northbrook,IL,3015,29.95,2005-07-12,2
+Dustin,Downing,dustinleedowning@yahoo.com,Stillwater,OK,2737,29.95,2005-05-23,1
+Tom,Sawdei,tms31078@aol.com,Huntington Beach,CA,3017,29.95,2005-07-12,1
+Stephanie,Sosa,stefnsos@bellsouth.com,Miami,FL,3648,32.95,2005-09-12,2
+Suzy,Brown,danbrown@sea.plala.or.jp,Fuefuki-shi,ZZ,2667,29.95,2005-05-17,1
+Lance,Simon,absolutlyl@yahoo.com,Marietta,GA,3279,29.95,2005-08-09,2
+Emily,Auerbach,e_Auerbach@coloradocollege.edu,Easton,PA,3152,29.95,2005-07-27,2
+Aurora,Steinle,ahsteinl@wustl.edu,St. Louis,MO,3689,32.95,2005-09-15,2
+Abbey,Roberson,abbey.roberson@hok.com,Washington,DC,3784,32.95,2005-09-21,1
+Jennifer,Royal,JERoyal7@msn.com,Fort Myers,FL,2793,29.95,2005-05-28,1
+Deborah,Drazen,debbie.drazen@gmail.com,New York,NY,2721,29.95,2005-05-22,1
+Aja,Sae-kung,aja.sae-kung@noaa.gov,Arlington,VA,3412,29.95,2005-08-24,1
+William,Luke,william.luke@us.army.mil,Copperas Cove,TX,3304,29.95,2005-08-13,1
+Joanna,Studeny,joannastudeny@gmail.com,New York,NY,3497,29.95,2005-08-31,2
+Collier,Mcrae,mcraec@WLU.EDU,Washington,DC,3520,29.95,2005-08-31,2
+Robyn,Kessel,jotadinero@hotmail.com,New York,NY,2505,29.95,2005-05-02,2
+Elena,Yamane,kauyam@gmail.com,Honolulu,HI,3321,29.95,2005-08-15,2
+Rajshree,Desai,desairajshree@yahoo.com,Mount Prospect,IL,3280,29.95,2005-08-10,2
+Hu,Hao,huhao512@yahoo.com.cn,Leicester,ZZ,3047,29.95,2005-07-15,2
+Allen,Sung,allensung@gmail.com,Granada Hills,CA,3179,29.95,2005-08-01,2
+Sarah,Kaskel,sarahlah@gmail.com,New York,NY,2370,29.95,2005-04-12,1
+Chris,Ankeny,skyy609@hotmail.com,San Antonio,TX,3695,32.95,2005-09-15,2
+Noreen,Reboso,reboson@rubingroup.com,Key Biscayne,FL,3879,32.95,2005-09-28,2
+Ruth,Wright,Rueba@charter.net,Sherrills Ford,NC,2406,29.95,2005-04-16,1
+Jennifer,Matthews,jen@broken.net,Danville,CA,2513,29.95,2005-05-02,2
+Rachael,Adams,rachaeladams@prodigy.net,Fort Pierce,FL,3169,33.2,2005-07-29,2
+Duncan,Holland,duncanholland@hotmail.com,Newberg,OR,3197,33.2,2005-08-03,1
+David,Morehan,dmorehan@hotmail.com,Killeen,TX,2568,29.95,2005-05-08,1
+Kathleen,Williams,katew@ece.gatech.edu,Decatur,GA,3855,36.2,2005-09-26,1
+Katy,Noeth,knoeth@gmail.com,Bloomington,IN,3658,32.95,2005-09-12,1
+Winnie,Phua,winniephua@hotmail.com,Walnut Creek,CA,2683,29.95,2005-05-17,2
+Justin,McCarthy,justinjmccarthy@excite.com,Flagler Beach,FL,2845,29.95,2005-06-03,1
+Noelle,Larosa,noelle.larosa@fmr.com,Highlands,NJ,2588,29.95,2005-05-10,2
+Nwora,Nwokolo,nwora82@hotmail.com,Adelphi,MD,3828,32.95,2005-09-24,1
+Kathryn,Beeley,rynspam@yahoo.com,Palo Alto,CA,2662,29.95,2005-05-16,1
+Jennifer,Reynhout,ferinvegas@hotmail.com,Las Vegas,NV,2511,29.95,2005-05-02,1
+Eva,Thompson,ethompson33@cox.net,North Kingstown,RI,3167,29.95,2005-07-29,1
+Yitzchok,Kotkes,eco05@aol.com,Far Rockaway,NY,2332,29.95,2005-04-07,2
+Chelsea,Rosen,chels322@aol.com,Chappaqua,NY,3168,29.95,2005-07-29,1
+Kim Tina,Tran,supertinastar@gmail.com,San Jose,CA,3571,32.95,2005-09-06,2
+Jesse,Cotter,jesseconlon@yahoo.com,Penfield,NY,3243,29.95,2005-08-07,2
+Steven,Younger,skyii@vuetura.com,Federal Way,WA,2363,29.95,2005-04-11,2
+Christina,Marshall-parr,clmarsha@middlebury.edu,Middlebury,VT,2408,29.95,2005-04-17,1
+Rachel,Fendell,Rachel.S.Fendell@vanderbilt.edu,Short Hills,NJ,3118,29.95,2005-07-22,2
+Anne,Mittelholzer,admittelholzer@yahoo.com,South Hadley,MA,2357,29.95,2005-04-11,1
+Christopher,Berry,berryorgan@yahoo.com,New York,NY,3660,32.95,2005-09-13,2
+Lisa,Mecca,lisamecca@hotmail.com,Jersey City,NJ,3190,29.95,2005-08-01,2
+Kelly,Vu,kellykvu@gmail.com,Stanford,CA,3101,29.95,2005-07-20,2
+Neal,Wizig,nwizig@indiana.edu,Houston,TX,3667,29.95,2005-09-13,2
+Kathleen,Kitlas,kakitlas@vassar.edu,Phoenix,AZ,3284,29.95,2005-08-10,2
+Ann,Suabedissen,gasuab@yahoo.com,Bordentown,NJ,2779,29.95,2005-05-26,2
+Gevorg,Gabrielyan,george.gabrielyan@gmail.com,Van Nuys,CA,3805,32.95,2005-09-22,2
+Bill,Wilczynski,william.wilczynski@us.pilkington.com,Niles,MI,2571,29.95,2005-05-09,1
+Jacob,Thomas,jrt284114@aol.com,Howell,NJ,3065,29.95,2005-07-18,1
+Aswini,Ramkumar,ramkumar@att.com,Hillsborough,NJ,2964,29.95,2005-07-01,1
+Ngoc Duyen,Le,shine079@aol.com,Richardson,TX,2433,29.95,2005-04-22,2
+Veroncia,Gombar,vgombar@gursey.com,Los Angeles,CA,2673,29.95,2005-05-17,1
+Thomas,Lloyd,thomasjlloyd@gmail.com,Davis,CA,3742,32.95,2005-09-19,2
+Tyruby,Harper,TblkDiamond@aol.com,Tucson,AZ,3110,29.95,2005-07-21,1
+Christine,Oneill,boobouki@yahoo.com,APO,ZZ,3143,29.95,2005-07-26,2
+Shannon,Thompson,shanney929@aol.com,Wellington,FL,2718,29.95,2005-05-21,1
+Courtney,Whitlock,CLWhitlock82@yahoo.com,Tallahassee,FL,2647,29.95,2005-05-15,1
+Huy,Ton,notyuh@yahoo.com,Fountain Valley,CA,3092,29.95,2005-07-19,1
+Jennifer,Jude,jenjude@gmail.com,Somerville,MA,3205,29.95,2005-08-03,1
+Christopher,James,cj2718@hotmail.com,College Station,TX,2714,29.95,2005-05-21,2
+Erik,Lea,elea@gunder.com,Menlo Park,CA,3602,32.95,2005-09-08,1
+Patrick,Bosco,Rjeremy379@sbcglobal.net,Sauk Village,IL,2835,29.95,2005-06-02,2
+Daniel,Kahan,dan.kahan@gmail.com,Arlington,VA,2716,29.95,2005-05-21,2
+Alissa,Bader,mol666@yahoo.com,Denver,CO,2475,29.95,2005-04-28,1
+Christina,Liu,cliu2@binghamton.edu,Whitestone,NY,3022,33.2,2005-07-13,1
+Jason,Kwon,jasonkwon@gmail.com,San Francisco,CA,2471,29.95,2005-04-27,2
+Alex,Solomon,ams276@cornell.edu,Ithaca,NY,3851,32.95,2005-09-26,1
+Coleman,Budworth,clbudworth@cox.net,Chandler,AZ,3829,32.95,2005-09-24,2
+Travis,Swallow,tswallow@azleg.state.az.us,Mesa,AZ,3476,29.95,2005-08-29,1
+Theresa,Olsen,tolsen1007@yahoo.com,Coral Springs,FL,2942,29.95,2005-06-26,2
+Erin,Malkiewicz,elm193@psu.edu,Bretton Woods,NH,2528,29.95,2005-05-03,2
+Chad,Sniffen,cksniffen@yahoo.com,Tucson,AZ,3637,32.95,2005-09-12,1
+Elizabeth,Bilgrey,mbilgrey@ic.sunysb.edu,Forest Hills,NY,3560,44.9,2005-09-05,2
+Kathleen,Uradnik,kuradnik@stcloudstate.edu,Saint Cloud,MN,3420,29.95,2005-08-24,1
+Jesse,Weiner,jesseweiner@hotmail.com,Staten Island,NY,2366,29.95,2005-04-11,1
+Eric,Pace,pacecire@yahoo.com,Arlington,TX,2676,29.95,2005-05-17,2
+Rachel,Deletto,raedeletto@hotmail.com,Babylon,NY,3191,29.95,2005-08-01,2
+Andres,Vidales,XXAVIDA@YAHOO.COM,Miami,FL,3328,29.95,2005-08-16,2
+Octavia,Donnelly,octavia@virginia.edu,Charlottesville,VA,3612,32.95,2005-09-09,1
+Lakshmi,Ravindran,swimgirl01@aol.com,Toms River,NJ,2598,29.95,2005-05-10,1
+Keith,Treadway,terry@cctc.net,College Station,TX,2820,29.95,2005-05-31,1
+Faisal,Hasan,fah97001@hotmail.com,New Fairfield,CT,2419,29.95,2005-04-19,2
+Erika,Tanigaki,erikatanigaki@hotmail.com,Los Angeles,CA,3672,32.95,2005-09-13,1
+Amanda C.,Marcus,amandacmarcus@yahoo.com,South Pasadena,CA,3873,32.95,2005-09-27,2
+Jennifer,Mota,jennmota24@yahoo.com,Rehoboth,MA,3838,32.95,2005-09-25,1
+Rolland,Doubleday Jr,Dub@Alum.MIT.edu,Anchorage,AK,3238,43.15,2005-08-06,1
+Hyo-jin,Kim,Bohemian842003@yahoo.com,Kenosha,WI,3408,39.9,2005-08-23,2
+Alexander,Beattie,prudence93@hotmail.com,Astoria,NY,2352,29.95,2005-04-10,2
+Bin,Xue,xbinxue@yahoo.com,Mukilteo,WA,3145,29.95,2005-07-26,1
+Kerry,Ogle,k-ogle@att.net,Hempstead,NY,3081,29.95,2005-07-18,1
+Cyndee,Reynolds,cyndee@mris.com,Baltimore,MD,3431,29.95,2005-08-25,2
+David,Dotson,daviddotson@conservancyoil.com,Albuquerque,NM,3773,32.95,2005-09-20,1
+Brenda,Ayers,ayrsbre@gmail.com,Houston,TX,3591,32.95,2005-09-07,2
+Beata,Bowen,beatab@gmail.com,Seattle,WA,2492,29.95,2005-05-01,2
+Mickey,Pirraglia,mpirraglia@hotmail.com,Canon City,CO,2665,29.95,2005-05-16,2
+Stephen,Cameron,Steve@sheanecg.com,Scottsdale,AZ,2341,29.95,2005-04-09,1
+Suzan Sabyl,Cohen,sabyl55@sonic.net,Washington,DC,3440,29.95,2005-08-26,1
+Maggie,Peck,mip30@aol.com,New York,NY,2473,29.95,2005-04-28,2
+Vaishali,Dangat,vdangat3@Yahoo.com,Naperville,IL,2464,29.95,2005-04-26,1
+Alex,Yushkovsky,wiseguy05@sbcglobal.net,Farmington,MI,2712,29.95,2005-05-20,2
+Jackilyn,Thayer,jackilynlee@yahoo.com,Huntington Beach,CA,2706,29.95,2005-05-20,2
+Chad,Wingate,cawingate@lycos.com,Mableton,GA,3593,32.95,2005-09-07,2
+Brittany,Owens,jasoneowens@gmail.com,Los Angeles,CA,3586,32.95,2005-09-07,2
+Aaron,Chait,a-chait@northwestern.edu,Chicago,IL,3137,29.95,2005-07-25,1
+Jaclyn,Shull,jackie.shull@gmail.com,Washington,DC,2670,29.95,2005-05-17,1
+Daniel,Runge,drunge3@ksu.edu,Independence,KS,2773,29.95,2005-05-25,1
+Natalie,Thomas,NATTY.THOMAS@GMAIL.COM,London,,3158,33.2,2005-07-28,2
+Jianjun,Lan,lanjjlan@yahoo.com,Long Island City,NY,3187,29.95,2005-08-01,1
+Marj,Reed,bobmarjr@comcast.net,Albuquerque,NM,2856,29.95,2005-06-05,1
+Fletcher,Letcher,FletchLetch@hotmail.com,Ben Lomond,CA,3727,32.95,2005-09-18,2
+William,Chun,willchun@hotmail.com,Toronto,ON,3255,29.95,2005-08-08,2
+Jessica,Urioste,jlumlm@comcast.net,Belmont,CA,2999,29.95,2005-07-08,2
+Peter,Lafferty,petelafferty@yahoo.com,Chicago,IL,2597,29.95,2005-05-10,1
+Cary,Dobkin,dobkin@usc.edu,Los Angeles,CA,3619,32.95,2005-09-10,2
+Richard,Mo,upennrich@hotmail.com,Fresh Meadfows,NY,3763,32.95,2005-09-20,2
+Laura,Zaccone,laz209@nyu.edu,Brooklyn,NY,2886,29.95,2005-06-14,1
+Kaitlynn,Terzano,annemarie.terzano@villanova.edu,Villanova,PA,3573,32.95,2005-09-06,1
+Nevena,Milic,mi1@gruber.com,Phoenix,AZ,3861,32.95,2005-09-26,1
+Nancy L.,Garbini,garbini@comcast.net,El Granada,CA,2544,29.95,2005-05-05,2
+Michael,Callahan,mitchcallahan@hotmail.com,Fort Collins,CO,3306,29.95,2005-08-13,2
+Shannon,Shrewsbury,soshrews@gmail.com,Foster City,CA,3297,33.2,2005-08-12,2
+Zeiad,Kolfat,zeiad@charter.net,Decatur,GA,3054,29.95,2005-07-16,1
+Amr,Kronfol,akronfol@alumni.princeton.edu,New York,NY,3827,32.95,2005-09-24,1
+Phyllis,Mason,phyllis.mason@gmail.com,King City,CA,2642,29.95,2005-05-14,2
+Wes,Whitaker,wes.whitaker@vanderbilt.edu,Nashville,TN,2342,29.95,2005-04-09,2
+Hoyoung,Jang,hyoungj@hotmail.com,Bowling Green,OH,2414,29.95,2005-04-18,1
+Alexandra,Whittaker,andra05@aol.com,Rialto,CA,3830,32.95,2005-09-24,1
+Callie,Mcgraw,cnmcgraw@aol.com,Peoria,AZ,2966,33.2,2005-07-01,1
+Peter,Tschanz,pttschanz@yahoo.com,Lindenhurst,IL,3053,29.95,2005-07-16,1
+Laura,Schechner,lss28@cornell.edu,Pleasantville,NY,3130,29.95,2005-07-24,2
+Leeann,Kartashevsky,lkartash@gmail.com,Dix Hills,NY,3393,33.2,2005-08-22,1
+Selwyn,Paul,selwynpaul@hotmail.com,Tulsa,OK,3248,33.2,2005-08-08,1
+Francesca,Zanfini,FZanfini@scu.edu,Irvine,CA,3480,29.95,2005-08-29,1
+Blake,Maybeck,bmaybeck@wesleyan.edu,Huntington,NY,3083,29.95,2005-07-18,1
+Brandon,Thomas,alphadog24@optonline.net,Brooklyn,NY,2878,29.95,2005-06-11,2
+Christopher,Nowacki,cnowack1@san.rr.com,San Diego,CA,3309,29.95,2005-08-14,1
+Benjamin,Goodhue,bgoodhue@uwm.edu,Milwaukee,WI,2741,29.95,2005-05-24,1
+Regina,Raesemann,rprice0106@hotmail.com,Apo,ZZ,3831,32.95,2005-09-24,2
+Trina,Saunders,flashart03@aol.com,Novato,CA,3037,29.95,2005-07-14,1
+Melanie,Medina,melaniemedina@hotmail.com,San Jose,CA,3866,32.95,2005-09-26,1
+Nancy,Lorenz,queenienan@comcast.net,Coatesville,PA,3093,29.95,2005-07-19,1
+Sara,Fiske,sfiske@student.umass.edu,Orleans,MA,3498,29.95,2005-08-31,1
+Joseph,Garza,pacificempyrean@hotmail.com,Los Angeles,CA,3064,29.95,2005-07-18,2
+Julia,Lein,j2ulie@stanford.edu,Stanford,CA,3001,29.95,2005-07-09,2
+Ron,Hastings,rehusmc96@aol.com,Edmond,OK,2542,29.95,2005-05-05,2
+Samuel,Jenness,smjenness@yahoo.com,Fairfield,CT,3624,32.95,2005-09-11,1
+Zahra,Zari,zahra_9123@hotmail.com,Simi Valley,CA,3459,29.95,2005-08-27,1
+Ashley,Evans,sealbchgrl@aol.com,Tallahassee,FL,2664,29.95,2005-05-16,2
+Dana,Green,dana_r_green@hotmail.com,New York,NY,2715,29.95,2005-05-21,1
+Masis,Oganesyan,masis@writeme.com,Newbury Park,CA,3259,29.95,2005-08-08,2
+Stacey,Duong,staceyduong@hotmail.com,Thornhill,ON,3235,29.95,2005-08-06,1
+Yelena,Tarnavskaya,Lenchic143@aol.com,Brooklyn,NY,3186,29.95,2005-08-01,2
+Molly,Grovak,m-grovak@northwestern.edu,Evanston,IL,2399,29.95,2005-04-15,1
+Randall,Forbes,LaPrez00@aol.com,Freeport,NY,2629,29.95,2005-05-13,1
+Steven,Boatright,boatrightsw@yahoo.com,Denver,CO,3562,32.95,2005-09-06,2
+Jonathan,Brogaard,snow4me2day@hotmail.com,Encinitas,CA,2743,29.95,2005-05-24,1
+Christa,Freeman,ChristaFreeman3@aol.com,Atlanta,GA,3008,29.95,2005-07-11,2
+Hannah,Weiner,hlweiner@gwu.edu,Washington,DC,3410,33.2,2005-08-23,2
+Angela,Smedley,asmedley@willkie.com,New York,NY,3854,32.95,2005-09-26,1
+Patrick,Bryson,pdbryson33@hotmail.com,Portland,OR,2833,29.95,2005-06-01,2
+Megan,Mincheff,megmincheff@msn.com,Irvine,CA,3340,39.9,2005-08-16,2
+Eric,Hansen,hitit_98@yahoo.com,Santa Clara,CA,2427,29.95,2005-04-20,2
+Christine,Lee,christine.lee39@gmail.com,La Jolla,CA,2951,29.95,2005-06-27,1
+Walter,Rogers,whrrogers@yahoo.com,Scarborough,ON,3802,32.95,2005-09-21,2
+Christopher,Hahn,chahn@usc.edu,Los Angeles,CA,3635,32.95,2005-09-12,1
+Carol,Jacobson,cjacobso@dtic.mil,Silver Spring,MD,3124,29.95,2005-07-23,2
+Mary Michelle,Dee,sweetcandie1284@msn.com,Alexandria,VA,2959,29.95,2005-06-28,2
+William,Fillmore,sf_j@zehrenfriedman.com,Oak Park,IL,2838,29.95,2005-06-02,2
+Katie,Lynott,kitkatt725@aol.com,Chico,CA,3517,29.95,2005-08-31,2
+Maurice,Perdreau,mauriceperdreau@yahoo.com,Athens,OH,3620,32.95,2005-09-10,1
+Eduardo M,Perez,eperez6@bellsouth.net,Hialeah,FL,2899,29.95,2005-06-18,2
+Martha,Heady Messman,headymessman@msn.com,Fishers,IN,3623,32.95,2005-09-11,1
+Ryan,Angeles,ryanangeles@hotmail.com,San Diego,CA,2501,29.95,2005-05-02,1
+Michael,Peckham,mike_peckham@hotmail.com,Middletown,RI,2468,29.95,2005-04-27,1
+Aaron,Morlock,amorlock@hotmail.com,Lincoln,NE,2934,29.95,2005-06-24,1
+Dawniqua,Linyear,dlinyear@yahoo.com,Chesapeake,VA,2495,29.95,2005-05-01,2
+Mustafa,Ayad,ayyadku@yahoo.ca,Ottawa,ON,3315,33.2,2005-08-14,2
+Winston,Bloodworth,wbloodw183@aol.com,Alvin,TX,2703,59.9,2005-05-20,1
+Debra,Maryanov,peacevision@hotmail.com,Tualatin,OR,2973,29.95,2005-07-02,1
+Brian,Ramsey,bramsey@brianramsey.us,Santa Clara,CA,3436,29.95,2005-08-25,1
+Thomas,Williams,twilliams@adelphia.net,Richmond Heights,OH,2386,29.95,2005-04-13,2
+Shelly,Parker,parker_shelly@hotmail.com,El Cajon,CA,2626,29.95,2005-05-12,1
+Georgios,Leris,georgeleris@gmail.com,Chantilly,VA,3285,29.95,2005-08-10,1
+Amanda,Hutchison,akhutchi@indiana.edu,Bloomington,IN,3841,32.95,2005-09-25,2
+Isabel,Daniels,Isabel.Daniels@gmail.com,Washington,DC,2709,29.95,2005-05-20,2
+Pradip,Patel,patelr2@rpi.edu,Westbury,NY,3155,29.95,2005-07-27,1
+Mary,Huynh,huynh_mary@hotmail.com,San Jose,CA,2461,29.95,2005-04-26,2
+Alicia,Heflin,ALICIAMHEFLIN@AOL.COM,Litchfield Park,AZ,3479,29.95,2005-08-29,1
+Talley,Scroggs,talleyscroggs@hotmail.com,Monterey,CA,2672,29.95,2005-05-17,1
+Alexis,Johnson,alexisj@gwu.edu,Pennington,NJ,3543,32.95,2005-09-03,2
+Dixie,Mcclendon,dixiemcclendon@sbcglobal.net,Houston,TX,2586,29.95,2005-05-10,1
+Natalie,Heard,natalieheard1@aol.com,West Orange,NJ,2331,29.95,2005-04-07,1
+David,Storch,DStorch@oswego.edu,Great Neck,NY,2982,29.95,2005-07-05,2
+Svetlana,Kauper,skauper@joimail.com,Claremont,CA,2484,29.95,2005-04-30,2
+Gustave A,Rychner,brychner@hotmail.com,Zurich,ZZ,3674,32.95,2005-09-14,2
+Edward,Gerber,eag23@georgetown.edu,Saint Paul,MN,2723,29.95,2005-05-22,2
+Johnny,Tu,johnemailaddress246@yahoo.ca,Richmond,BC,2650,29.95,2005-05-15,2
+Denny,Grizzle Jr.,dgrizzjr@aol.com,Frederick,MD,3373,29.95,2005-08-19,1
+Danya,Labban,tchandna@gmail.com,New York,NY,3305,29.95,2005-08-13,2
+Linda,Krug,lkrug@d.umn.edu,Duluth,MN,2564,29.95,2005-05-08,1
+Malgorzata,Sadowska,MaggieSadowska@hotmail.com,Washington,DC,3322,33.2,2005-08-15,2
+Rachel,Rossi,rakelrossi@yahoo.com,Scotts Valley,CA,3718,32.95,2005-09-17,1
+Sarah,Burghart,NUArtsClass@yahoo.com,Evanston,IL,2569,29.95,2005-05-08,1
+Matt,Rosseau,trancemaster234@hotmail.com,Chicago,IL,3495,29.95,2005-08-30,2
+Hossay,Mattin,hossaymattin@aol.com,Fairfax,VA,3314,29.95,2005-08-14,2
+Adam,Silverstein,asilverstein@advancehomeproducts.com,Brooklyn Park,MN,2980,29.95,2005-07-05,2
+James,Mitchell,jam34@stanford.edu,Stanford,CA,3782,32.95,2005-09-21,1
+Chris,Hagale,christopher.hagale@yale.edu,Houston,TX,2974,29.95,2005-07-03,1
+Shabir,Rahim,shabirrahim@hotmail.com,Los Angeles,CA,3585,32.95,2005-09-07,2
+Eric,Schmelzer,erics@gwu.edu,Washington,DC,3351,59.9,2005-08-17,1
+Bevin,Butler,bevinbutler22@hotmail.com,New York,NY,2784,29.95,2005-05-26,2
+Wales,Madden,walesmadden@hotmail.com,Austin,TX,2429,29.95,2005-04-21,1
+Matthew,Doss,mattdoss06@yahoo.com,College Station,TX,2487,29.95,2005-04-30,2
+Brooke,Donnelly,bdonnelly@sidley.com,New York,NY,3419,29.95,2005-08-24,1
+Luke,Burns,luke.burns@richmond.edu,University of Richmond,VA,3638,32.95,2005-09-12,1
+V,Gavalya-Sandoval,cyber_valentina@yahoo.com,New York,NY,2376,29.95,2005-04-12,1
+Jose,Fuentes,joserodrigofuentes@gmail.com,New Haven,CT,2350,29.95,2005-04-10,1
+Jenna,Churchman,jennachurchm@yahoo.com,Arlington,VA,2470,29.95,2005-04-27,1
+Molly,Heintz,molly.heintz@yale.edu,New Haven,CT,3724,32.95,2005-09-18,2
+Sarah,Munce,sarah.munce@sw.ca,Toronto,ZZ,2804,29.95,2005-05-30,2
+Nancy,Phillips,nancyannphillips@yahoo.com,Northbrook,IL,2450,29.95,2005-04-25,2
+Andy,Chern,charlene1340@aol.com,Harleysville,PA,2720,29.95,2005-05-22,2
+Gary,Tadian,gtadian@msn.com,Birmingham,MI,3809,32.95,2005-09-22,2
+John,Oldham,jt-ut@mail.utexas.edu,Austin,TX,3066,33.2,2005-07-18,1
+Erica,Alexakis,eha1983@aol.com,Los Angeles,CA,3515,29.95,2005-08-31,2
+Karri,Axtell,karrizma1@juno.com,Biloxi,MS,2434,29.95,2005-04-22,2
+Dmitriy,Tishevich,dmitriyt@gmail.com,Burlingame,CA,3670,32.95,2005-09-13,1
+Lauren,Sadlak,Sadlak.2@osu.edu,Columbus,OH,3772,32.95,2005-09-20,1
+Tania,Garbe,taniagarbe@yahoo.com,Winter Park,FL,2451,29.95,2005-04-25,2
+Alina,Bassentsian,sergey51@sbcglobal.net,Glendale,CA,3450,29.95,2005-08-27,1
+David,Hall,daviddhall@yahoo.com,New York,NY,2915,29.95,2005-06-20,2
+Alexandra,Kahn,birdsofafeather8@aol.com,Princeton,NJ,2808,29.95,2005-05-30,1
+Christopher,Thacker,cstrugger3@hotmail.com,St. Louis,MO,2474,29.95,2005-04-28,1
+Anh T.,Nguyen,cherubicanh@gmail.com,Houston,TX,2649,29.95,2005-05-15,2
+Christopher E,Dowdy,cedowdy@ucdavis-alumni.com,Davis,CA,3604,32.95,2005-09-08,2
+Jonathan,Jenkins,jsj6569@aol.com,Abilene,TX,3298,29.95,2005-08-12,1
+Timothy,Yoo,cp2025@hotmail.com,Arcadia,CA,3634,32.95,2005-09-11,2
+Hameed,Atia,rasat9@aol.com,Cologne,MN,3035,29.95,2005-07-14,1
+Abbey,Schneider,abbeyms@aol.com,Washington,DC,3686,32.95,2005-09-14,1
+Carol,Pang,leef903@yahoo.com.tw,Taipei,ZZ,2393,29.95,2005-04-15,1
+Steve,Chung,stevec702@yahoo.com,Oakland,CA,3344,29.95,2005-08-17,1
+Ellen,Miers,jmiers@hcin.net,Dallas,TX,3084,33.2,2005-07-18,1
+Lauren,Aach,la457@nyu.edu,New York,NY,3541,32.95,2005-09-03,2
+Jason,Gibson,jdg8041@yahoo.com,Plymouth,MI,3411,33.2,2005-08-24,2
+Pamela,Miller,nkole143@aol.com,Boca Raton,FL,3705,32.95,2005-09-16,2
+Jennifer,Coffey,jacoffey@gmail.com,New York,NY,3748,32.95,2005-09-19,1
+Anjali,Arora,aarora3@learnlink.emory.edu,Locust Valley,NY,2772,29.95,2005-05-25,1
+Rafik,Nassif,rafik.nassif@gmail.com,Euless,TX,3138,29.95,2005-07-25,1
+Ariel,Wade,aewade@gwu.edu,Washington,DC,3330,29.95,2005-08-16,1
+Amber D. F.,Elliott,adfarrelly@yahoo.com,Leander,TX,3621,32.95,2005-09-10,2
+Shemesh,Shai,s_law@inter.net.il,Tel Aviv,,3180,29.95,2005-08-01,2
+Emily,Whitmore,whitme@u.washington.edu,Seattle,WA,2921,29.95,2005-06-21,2
+Ming,Fong,mhf97@yahoo.com,Granada Hills,CA,2525,29.95,2005-05-03,1
+Mary,Clark,mclark17@bellsouth.net,Florence,AL,2762,59.9,2005-05-25,1
+Jiyoung,Cha,LADYBUG0624@HOTMAIL.COM,Ansung Si Kyungki Do,,3762,32.95,2005-09-20,1
+Jonathan,Kopitzke,jkopitzke@yahoo.com,Beverly Hills,CA,2863,29.95,2005-06-07,1
+Umo,Iyanam,umoiyanam@oru.edu,Tulsa,OK,3252,29.95,2005-08-08,1
+Julie,Chou,jlhchou@yahoo.com,San Marino,CA,2829,29.95,2005-06-01,2
+Robert,Cilento,cilento@fordham.edu,Bronx,NY,3592,32.95,2005-09-07,2
+Jennifer,Shapiro,JenShap3@aol.com,Philadelphia,PA,2752,29.95,2005-05-24,1
+Marcos,Santos,pinheirosantos@superig.com.br,Rio De Janeiro,ZZ,2887,29.95,2005-06-15,1
+Barbara,Geving,hgeving@earthlink.net,Hermosa Beach,CA,3012,29.95,2005-07-11,1
+Amanda,Jackson,amanda.jackson@villanova.edu,Bryn Mawr,PA,3611,32.95,2005-09-09,1
+Lou A.,Purnell,lpurnell@comcast.net,Murfreesboro,TN,3723,32.95,2005-09-18,2
+Neer,Lerner,adam.tea@gmail.com,Goleta,CA,3696,32.95,2005-09-15,1
+Matt,Marmaro,mattmarmaro@hotmail.com,Austin,TX,3200,29.95,2005-08-03,1
+Amir,Pakdel,arpakdel@interchange.ubc.ca,Coquitlam,BC,2854,29.95,2005-06-05,2
+Kelly,Kelly,kellyk842002@yahoo.com,Tenafly,NJ,3438,29.95,2005-08-25,2
+Terra,Williams,tippy@socket.net,Pearl City,HI,2769,29.95,2005-05-25,1
+Eftihia,Galanis,iflirtyibebe@aol.com,Flushing,NY,2485,29.95,2005-04-30,2
+Maria,Tyler,eaglessoc@aol.com,Oviedo,FL,2436,29.95,2005-04-22,2
+Megan,Carr,moosie626@aol.com,Austin,TX,2387,29.95,2005-04-13,1
+Jesse,Cox,jesse1953@yahoo.com,Lutherville,MD,2396,29.95,2005-04-15,1
+Mike,Keepman,mkeepman@uwm.edu,Milwaukee,WI,3776,32.95,2005-09-20,2
+Matt,Maher,gatorfandiaries@yahoo.com,The Woodlands,TX,3165,29.95,2005-07-28,1
+Joshua,Deitz,mrossifer@hotmail.com,Fort Worth,TX,2490,29.95,2005-04-30,1
+Nicholas,Hicks,nbb4@yahoo.com,Thatcher,AZ,2555,29.95,2005-05-06,1
+Joseph,Hansen,fort_mac@hotmail.com,Moscow,ID,2358,29.95,2005-04-11,1
+Saundra,Daily,minimomva@aol.com,Richmond,VA,3295,33.2,2005-08-12,2
+Michael,Zering,michael.zering@gmail.com,Zurich,,3774,32.95,2005-09-20,1
+Aki,Oshima,aki_corleone7@hotmail.com,Pacific Palisades,CA,2395,29.95,2005-04-15,2
+Jennifer,Laah,jlaah@umich.edu,Ann Arbor,MI,3177,29.95,2005-07-31,2
+Paul,Jones,pauljones94@hotmail.com,Emeryville,CA,2992,29.95,2005-07-07,2
+Monica,Saylor,MSaylor177@aol.com,West Chester,OH,3880,32.95,2005-09-28,2
+Alejandro,Cruz,alejandro.h.cruz.04@alum.dartmouth.org,Charlottesville,VA,3732,32.95,2005-09-19,2
+Daniel,Branum,seekingtruthnow@yahoo.com,Stillwater,OK,2618,29.95,2005-05-11,2
+Dashun,Twitty,stwitty1@charter.net,Greenville,SC,3140,33.2,2005-07-25,2
+Sara,Lewis,slewis15@gmail.com,New York,NY,2609,29.95,2005-05-11,1
+John,Crawford,jcrawfor@stevens.edu,Pearl River,NY,3888,32.95,2005-09-28,2
+Antonin,Hrabal,ProfessorHrabal@yahoo.com,Indian Wells,CA,2936,29.95,2005-06-25,1
+James,Knieling,HOMEENERGYEXPERT@AAAHAWK.COM,Las Vegas,NV,2440,29.95,2005-04-23,1
+Brian,Phillips,wendy.wangp@verizon.net,Costa Mesa,CA,3857,32.95,2005-09-26,1
+Christina,Sotebeer,angel_C324@hotmail.com,St. Paul,MN,3600,65.9,2005-09-08,1
+Thomas,Kilby,tomgault@yahoo.com,Glendale,AZ,2368,29.95,2005-04-12,1
+Linda,Duffield,edga@gci.net,Portland,OR,3282,33.2,2005-08-10,1
+Alyssa,Galloway,alygally@ucla.edu,Bakersfield,CA,3493,29.95,2005-08-30,2
+Stormy,Ralstin,webspinner@comcast.net,Albuquerque,NM,2379,29.95,2005-04-12,2
+Jennifer,Larkin,jlarkin@umich.edu,Glenview,IL,2613,29.95,2005-05-11,1
+Nicole,Boroff,niki_324@hotmail.com,Menlo Park,CA,3746,32.95,2005-09-19,2
+Kim,Lucien,kim@bludaisy.net,Sherman Oaks,CA,2337,29.95,2005-04-07,1
+Abiola,Pedro,biolap@hotmail.com,Bowie,MD,3837,32.95,2005-09-25,2
+Glen,Frost,Glen.Frost@gt.com,Baltimore,MD,3740,32.95,2005-09-19,2
+Betty,Lee,letitbee83@yahoo.com,Duluth,GA,3386,29.95,2005-08-21,2
+Rachel,Bramley,rfbramley@comcast.net,Danbury,CT,2730,29.95,2005-05-22,2
+Felix,Yeung,fysb23@yahoo.com,San Jose,CA,3549,32.95,2005-09-04,2
+Julie M,Gottselig,gottselig@comcast.net,Concord,MA,3633,32.95,2005-09-11,1
+Patricia,Akin,patriciaakin@sbcglobal.net,Houston,TX,2631,29.95,2005-05-13,1
+Douglas,Hirai,douglas_hirai@yahoo.com,New York,NY,3300,29.95,2005-08-13,2
+Brett,Merfish,brett.merfish@gmail.com,Washington,DC,3043,33.2,2005-07-15,1
+Linsey,Shulman,shulmanl@gmail.com,New York,NY,2929,29.95,2005-06-23,2
+Harry,Stahl,harrystahl13@hotmail.com,Sharon Springs,NY,3652,32.95,2005-09-12,1
+Alex,Tai,ayt2u@virginia.edu,Mclean,VA,2698,29.95,2005-05-19,1
+Olivia,Layug,olivialayug@gmail.com,Los Angeles,CA,3375,29.95,2005-08-19,1
+Julia,Kripke,kripkej@sullcrom.com,New York,NY,2970,33.2,2005-07-01,1
+Joel,Furman,jfurman@umail.ucsb.edu,Isla Vista,CA,3601,32.95,2005-09-08,2
+Ingrid,Russ,Ingridruss@msn.com,Raleigh,NC,3342,29.95,2005-08-17,1
+Zulma,Westney,zulmaw@comcast.net,Danbury,CT,3596,32.95,2005-09-08,1
+Ryan,Vescio,vescior@nsu.law.nova.edu,Coral Springs,FL,3090,29.95,2005-07-19,2
+Mario O.,Ramirez,lilrio13@yahoo.com,Austin,TX,3752,32.95,2005-09-19,1
+Caroline,Leclerc,cleclerc@indiana.edu,Carmel,IN,2727,29.95,2005-05-22,2
+Daniel,Kim,dkim13@gmail.com,Glenview,IL,2627,29.95,2005-05-12,2
+James,Ho,jcsho@ucdavis.edu,Sunnyvale,CA,3516,29.95,2005-08-31,2
+Raymond,Pitzen,raymondpitzen@earthlink.net,Jacksonville,NC,3302,29.95,2005-08-13,2
+Margaret,Skourlis,misskalmata2003@aol.com,Whitestone,NY,3214,33.2,2005-08-04,1
+Dae Sang,Lee,leedaesang@naver.com,Nashville,TN,2732,29.95,2005-05-23,2
+Oliver,Nicholas,odn64@msn.com,Louisville,KY,2633,29.95,2005-05-13,1
+Robin,Prager,josh.prager@gmail.com,Livingston,NJ,3500,33.2,2005-08-31,2
+Jeffrey,Chudy,jchudy_2000@yahoo.com,Lyndhurst,NJ,2527,29.95,2005-05-03,2
+Christina,Brittain,christinab_26@yahoo.com,San Jose,CA,3291,29.95,2005-08-11,1
+Sean,Corgan,posplugone@aol.com,Bedford,NY,2761,29.95,2005-05-25,2
+Victoria,Passarella,ReviveOphelia@aol.com,New Paltz,NY,3664,32.95,2005-09-13,1
+Keith,Franklin,K.Franklin83@sbcglobal.net,Pine Bluff,AR,2799,29.95,2005-05-29,1
+Saundra,Fischer,freedomfairie@yahoo.com,San Jose,CA,3460,29.95,2005-08-27,1
+Lynn,Holly,lynnholly@mn.rr.com,Bloomington,MN,3125,29.95,2005-07-23,1
+Henry,Davis,hdavis@studyhall.com,Dallas,TX,2747,149.75,2005-05-24,2
+Satchidananda,Mims,smims21@hotmail.com,Oakland,CA,2529,29.95,2005-05-03,1
+Ummehani,Mogri,ummehanikachwalla@hotmail.com,Woodland Hills,CA,3466,29.95,2005-08-28,2
+Margaret,Sullivan,Maggles25@aol.com,Sudbury,MA,3335,29.95,2005-08-16,1
+Larry,Watkins,tehom2001@yahoo.com,Carrboro,NC,3683,32.95,2005-09-14,1
+Nadejda,Mechkova,nmeshkova@hotmail.com,Sherman Oaks,CA,2787,29.95,2005-05-27,2
+Ashley,Shields,Ashley_Shields@baylor.edu,Temple,TX,2731,29.95,2005-05-23,2
+Justin,Lau,justlaud@gmail.com,Los Angeles,CA,3432,29.95,2005-08-25,2
+Tara,Cook,cookie_tara@hotmail.com,Upper Marlboro,MD,2800,29.95,2005-05-29,1
+Samuel,Eads,samueleads@yahoo.com,Salt Lake City,UT,3668,32.95,2005-09-13,1
+Louis,Reale,lr@frontiernet.net,Rochester,NY,3313,29.95,2005-08-14,1
+Susan,Hills,susiehills@aol.com,Mt. Pleasant,SC,2412,29.95,2005-04-18,2
+Andrew,Mapley,andymapley@hotmail.com,Bellport,NY,2502,29.95,2005-05-02,1
+Andrea,Barragan,andreab13@msn.com,Miami,FL,2508,29.95,2005-05-02,1
+Spencer,Peoples,spencerpeoples@earthlink.net,Scottsdale,AZ,2453,29.95,2005-04-25,1
+William,Clayton,wclayton@stanford.edu,Newport Beach,CA,3381,29.95,2005-08-20,2
+Taryn,Shechter,taryn.shechter@quinnipiac.edu,Westbury,NY,2834,29.95,2005-06-01,2
+Jesse,Eshkol,ishai_eshkol@yahoo.com,Long Island City,NY,3009,59.9,2005-07-11,2
+Peggy,Hayes,havetoluv@yahoo.com,Tulsa,OK,3891,32.95,2005-09-29,2
+Sarah,Liles,skat0283@aol.com,Jackson,TN,2776,29.95,2005-05-26,2
+Erin,Zrust,egzrust@csbsju.edu,St. Joseph,MN,3859,32.95,2005-09-26,1
+Camisha,Asherbranner,jason.asherbranner@ngc.com,Decatur,AL,3747,32.95,2005-09-19,2
+Philip,Shaver,philipshaver@earthlink.net,Island Park,ID,3098,33.2,2005-07-20,1
+Matthew,Cicero,Matt123474@aol.com,New Rochelle,NY,3442,29.95,2005-08-26,2
+Melissa,Gobin,sargan@aol.com,Brooklyn,NY,3380,33.2,2005-08-19,2
+D N,Vanslett,danielvanslett@ureach.com,Germantown,WI,2532,29.95,2005-05-04,2
+Anoop,Tikko,anoop2300@yahoo.com,Eastchester,NY,3474,29.95,2005-08-29,2
+Anise,Wang,anis888e@yahoo.com,Fremont,CA,2638,29.95,2005-05-14,1
+Jake,Moses,shmokes@hotmail.com,Cedar City,UT,2364,29.95,2005-04-11,2
+Lenny,Derin,LBD318@aol.com,Coral Gables,FL,2828,29.95,2005-06-01,2
+Stephanie,Puga,stephrox1@aol.com,Austin,TX,3122,59.9,2005-07-22,1
+William,Sargeant,wsargeantp@aol.com,Paradise Valley,AZ,2701,29.95,2005-05-19,1
+Brian,Koffler,BrianKoffler@yahoo.com,New York,NY,3019,29.95,2005-07-12,2
+Anita,Ulloa,tko1169@gmail.com,Tamuning,GU,2825,29.95,2005-06-01,1
+Ann,Fievet,ae_cjfievet@hotmail.com,Athens,GA,3131,33.2,2005-07-24,2
+Molly,Black,mollycblack@hotmail.com,Asheville,NC,2644,29.95,2005-05-15,2
+Christine,Lee,cjlee81@hotmail.com,Federal Way,WA,3587,32.95,2005-09-07,1
+Rowan,Alkhatib,rowan_al@yahoo.com,Phoenix,AZ,3458,29.95,2005-08-27,1
+Raymond,Stockstill,bstockstill@stanford.edu,Stanford,CA,3150,29.95,2005-07-27,1
+Chih-hung,Kuo,larrychkuo@myway.com,Saugus,CA,2849,29.95,2005-06-03,2
+Brandon,Dewitt,doit_85@hotmail.com,Sikeston,MO,2750,29.95,2005-05-24,2
+Karla,San Emeterio,karla454545@aol.com,Miami,FL,3632,32.95,2005-09-11,2
+Caroline,Glick,glic0014@umn.edu,Minneapolis,MN,3826,32.95,2005-09-24,1
+Aubrey,Bruggeman,aubreybruggeman@hotmail.com,New York,NY,2946,29.95,2005-06-27,2
+Mohd,Khan,khan.noor@gmail.com,Queens Village,NY,2883,29.95,2005-06-13,2
+Valyncia,Hill,shanee7@email.uophx.edu,Roseville,CA,2653,29.95,2005-05-16,1
+Saeyoung,Chung,nschung@brandeis.edu,Waltham,MA,3528,32.95,2005-09-01,1
+Matthew,Gurwitz,mgurwitz@earthlink.net,Brooklyn,NY,3557,32.95,2005-09-05,2
+Cynthia,Rocha,MoonKitty83@gmail.com,Hialeah,FL,2742,29.95,2005-05-24,1
+Ed,Barsano,edbar@exmsft.com,Scottsdale,AZ,3267,29.95,2005-08-09,1
+Lauren,Patterson,sugargator7600@aol.com,Gainesville,FL,3874,32.95,2005-09-27,1
+Joseph P.,Weldon,joeweldon@adelphia.net,Juno Beach,FL,3539,32.95,2005-09-03,1
+Latrise,Collins,godslovevessel@aol.com,Tallahassee,FL,2674,29.95,2005-05-17,1
+Kristin,Engel,kengel@gmail.com,Los Altos,CA,2348,29.95,2005-04-10,1
+Mahsa,Soheil,january5@hotmail.com,Opa Locka,FL,3563,32.95,2005-09-06,1
+Linda,Chen,chenlinda@shaw.ca,Richmond,BC,2993,29.95,2005-07-07,1
+Timothy,Coughlin,timothy.coughlin@trincoll.edu,Hartford,CT,3595,32.95,2005-09-08,2
+Abigail,Moffat,abigail.moffat@gmail.com,New York,NY,2735,29.95,2005-05-23,1
+Christina,Ray,shoesforlife@yahoo.com,Raleigh,NC,3352,29.95,2005-08-18,1
+Rachel,Finkelstein,finkelst@usc.edu,Los Angeles,CA,3843,32.95,2005-09-25,2
+Igor,Gadlin,igadlin@yahoo.com,Brooklyn,NY,2874,29.95,2005-06-10,1
+Kate,Rosenbloom,ktr323@aol.com,Pittsburgh,PA,2768,29.95,2005-05-25,2
+Matthew,Welter,matthew.welter@huskymail.uconn.edu,Storrs,CT,2813,29.95,2005-05-31,1
+Alisha,Cieslak,leishie817@yahoo.com,Canton,MI,2512,29.95,2005-05-02,2
+Adrienne,Link,adrienne_link@hotmail.com,Oakland,CA,2389,29.95,2005-04-14,2
+Carol,Day,ca_day@yahoo.com,San Jose,CA,3760,36.2,2005-09-19,2
+Steven,Chang,emasctere@hotmail.com,San Jose,CA,3014,29.95,2005-07-11,1
+Deborah,Brightman,absolut811@aol.com,Santa Cruz,CA,3396,59.9,2005-08-22,2
+Stephen,Carey,careyst@hotmail.com,New York,NY,2520,29.95,2005-05-03,1
+Michael,Reiser,Michael.Reiser@Colorado.edu,Boulder,CO,2506,29.95,2005-05-02,2
+Iris,Holbrook,iholbrook22@yahoo.com,Reno,NV,2745,29.95,2005-05-24,2
+Blake,Taylor,beachbumag05@aol.com,College Station,TX,2567,29.95,2005-05-08,2
+Brian,Slosser,slosser77@sbcglobal.net,Shorewood,WI,2640,29.95,2005-05-14,2
+Alex,Kaufman,akaufman@hamilton.edu,Clitnon,NY,3821,32.95,2005-09-23,1
+Justin,Brandel,jbrandel04@hotmail.com,Monsey,NY,2775,29.95,2005-05-26,2
+Gregory,Muha,gmmuha@gmail.com,Washington,DC,3865,32.95,2005-09-26,2
+Barbara,Massengill,teammass@att.net,Fort Worth,TX,3287,29.95,2005-08-10,2
+Nicole,Falls,wimbledon40@hotmail.com,Nashville,TN,3825,32.95,2005-09-24,2
+Cara,Vecchione,cvecchione@gmail.com,New York,NY,2514,29.95,2005-05-02,1
+Lorena,Quesada,shine1280@aol.com,Northridge,CA,2851,29.95,2005-06-03,1
+Brandt,Palmer,bpsalvador@hotmail.com,Provo,UT,2688,29.95,2005-05-18,1
+Jackie,Simon,jackiesimon@airbridge.net,Montgomery Village,MD,2493,29.95,2005-05-01,1
+Will,Richardson,wrichardson@mail.utexas.edu,Austin,TX,2454,29.95,2005-04-25,1
+Amanda,Schlank,yrunvs2@yahooo.com,Granada Hills,CA,3665,32.95,2005-09-13,1
+Sonia,Andreou,andreoun1@aol.com,Oakland,MI,2643,29.95,2005-05-15,2
+Nicholas,Stroemer,taznick96@yahoo.com,Fairfax,VA,2809,29.95,2005-05-30,2
+Jamie,Cohen,jamiecohen@wisc.edu,Madison,WI,3337,33.2,2005-08-16,2
+Nicole,Naghi,nsn02002@pomona.edu,Claremont,CA,3820,32.95,2005-09-23,1
+Shaun,Sukul,shaunsukul@optonline.net,Merrick,NY,2933,29.95,2005-06-24,1
+Donna,Blankenship,donna.blankenship@usoncology.com,Plano,TX,3027,29.95,2005-07-13,2
+Betty,Mac,bettie506@hotmail.com,Daly City,CA,2663,29.95,2005-05-16,1
+Amber,Davis,adavis@plainscapital.com,Dallas,TX,3317,29.95,2005-08-15,1
+Teresa,Guzman,trichlet@student.gvsu.edu,Jenison,MI,2466,29.95,2005-04-26,2
+Bob,Mancuso,mancusor3@scranton.edu,Dunmore,PA,3640,32.95,2005-09-12,1
+Ganesh,Subramanian,gunsub@hotmail.com,Potsdam,NY,3371,29.95,2005-08-19,1
+Neil,Vaishnav,vaishnav@gmail.com,New York,NY,2432,29.95,2005-04-21,2
+Judy,Lee,judy_lee@emerson.edu,Boston,MA,2383,29.95,2005-04-13,1
+Chris,Szewczyk,SzewczykC2@scranton.edu,Dickson City,PA,3654,32.95,2005-09-12,2
+Mackey,Jackson,jackeymackson@yahoo.com,Aptos,CA,3713,32.95,2005-09-16,2
+Meghan,Carmody,megcarmody@hotmail.com,Chapel Hill,NC,3801,32.95,2005-09-21,1
+Erik,Koland,koland@gmail.com,Palo Alto,CA,3151,29.95,2005-07-27,2
+Ashley,Mchugh,amchugh@stanford.edu,Palo Alto,CA,2995,29.95,2005-07-08,1
+Killain,Jones,killainjones@earthlink.net,Reseda,CA,3483,29.95,2005-08-29,2
+Michael,Blair,mblair1383@aol.com,Far Rockaway,NY,3823,32.95,2005-09-24,1
+Michael,Friedman,Steveredman4@hotmail.com,Brooklyn,NY,3025,29.95,2005-07-13,2
+Tammy,Birdsong,tammybirdsong@hotmail.com,Leesville,LA,2994,29.95,2005-07-08,1
+Yoonie,Cho,ycho@sbs.nyc.gov,New York,NY,2375,29.95,2005-04-12,2
+Austin,Ball,austin.t.ball@gmail.com,Arlington,VA,3461,29.95,2005-08-27,2
+Lauren,Galvin,Lgalvin@loyola.edu,Cranbury,NJ,3465,29.95,2005-08-28,2
+Tessa,Kennedy,tkkenned@artsci.wustl.edu,St. Louis,MO,3475,29.95,2005-08-29,1
+Obianuju,Chikelue,layemstrate@hotmail.com,Houston,TX,3755,32.95,2005-09-19,2
+Jessica,Wertheim,swertheim@globe-ip.com,Bethesda,MD,2960,33.2,2005-06-28,1
+Rob,Negohosian,spgoodman@aol.com,Ann Arbor,MI,3457,29.95,2005-08-27,1
+Brian,Crutchfield,Crutchfld@aol.com,Charlotte,NC,2900,33.2,2005-06-19,2
+Dianne,Swanson,dianneswanson@msn.com,Longview,WA,3564,36.2,2005-09-06,1
+Dennis,Kruska,kaweah@pacbell.net,Sherman Oaks,CA,3709,32.95,2005-09-16,1
+Deana,Spencer,dspencer@student.gsu.edu,Atlanta,GA,2590,29.95,2005-05-10,1
+Adam,Rock,arock24@hotmail.net,Moorpark,CA,3651,32.95,2005-09-12,1
+Ashley,Vereschagin,avereschagin@stblaw.com,New York,NY,2510,29.95,2005-05-02,2
+Carla,Cinganelli,cara07010@aol.com,Great Neck,NY,2852,29.95,2005-06-04,2
+Kendall,Craver,kcraver@scu.edu,Santa Clara,CA,3753,32.95,2005-09-19,1
+Christopher,Magill,magillc@dickinson.edu,Laguna Beach,CA,3790,32.95,2005-09-21,1
+Yuan,Han,yuan.han@lyondell.com,New Hope,PA,3785,32.95,2005-09-21,1
+Thomas,Walsh,Gotchabeat324@yahoo.com,Flushing,NY,3061,29.95,2005-07-17,1
+Jackie,Jeray,jjjeray@hotmail.com,Mequon,WI,2651,29.95,2005-05-16,2
+Mikala,Mcclanahan,mikalamcclanahan@cox.net,Peoria,AZ,3491,29.95,2005-08-30,1
+Lucia,Tieng,gride311@verizon.net,Fort Lee,NJ,3822,32.95,2005-09-24,2
+Cindy,Dole,bunburying@yahoo.com,Davis,CA,3048,29.95,2005-07-15,1
+Ashley,Marton,Ashley.Marton@asu.edu,Phoenix,AZ,3378,29.95,2005-08-19,1
+Brad,Jenkins,mkpowell@alumni.princeton.edu,Brooklyn,NY,2681,29.95,2005-05-17,2
+Matthew,Todd,matt_todd@yahoo.com,Hammond,LA,3700,32.95,2005-09-15,2
+Sonal,Mehta,sonalmehta01@gmail.com,Los Angeles,CA,3478,29.95,2005-08-29,1
+Diameng,Pa,diameng@diamengpa.com,Arlington,VA,2740,29.95,2005-05-23,2
+Lian,Enger,genger@cox.net,Scottsdale,AZ,3232,29.95,2005-08-05,1
+Daniel,Hogan  Md,dhogan@lsuhsc.edu,Shreveport,LA,3443,33.2,2005-08-26,2
+Raul,Cabezas,parmaac@hotmail.com,Austin,TX,3199,33.2,2005-08-03,2
+Charlene,Austin,austinca@gmail.com,Lithonia,GA,3625,32.95,2005-09-11,1
+Crystal,Biggerstaff,cbiggerstaff@law.du.edu,Broomfield,CO,2855,29.95,2005-06-05,2
+Mark,Woods,markwoods20@yahoo.com,New York,NY,2486,29.95,2005-04-30,1
+Michael,Marcum,mmarcum@learnlink.emory.edu,Frontenac,MO,3320,29.95,2005-08-15,2
+Lindsay,Orosz,xl14ox@aol.com,Old Bridge,NJ,2648,29.95,2005-05-15,2
+Kimberly,Jantz,kim.jantz@gmail.com,San Jose,CA,3319,29.95,2005-08-15,1
+Elizabeth,Ng,eng@pennprolaw.com,New York,NY,2411,29.95,2005-04-18,1
+Luiz,Soares,louis2006@gmail.com,Rio de Janeiro,,3144,33.2,2005-07-26,1
+Melissa,Tyner,melissatyner@gmail.com,Santa Cruz,CA,3728,32.95,2005-09-18,1
+Stephanie,Adams,sma36@cornell.edu,Brewster,NY,3804,32.95,2005-09-21,2
+Julie,Ayers,JAYERS@NWE.COM,Valley Village,CA,3589,32.95,2005-09-07,1
+Nicole,Faeth,nickyfaeth@hotmail.com,Santa Barbara,CA,3643,32.95,2005-09-12,1
+Alethea,Bywaters,asbywaters@yahoo.com,Los Gatos,CA,3245,29.95,2005-08-07,2
+Crystal,Mclennan,crystal.mclennan@uleth.ca,Lethbridge,AB,3178,29.95,2005-08-01,2
+Jill,Gaffaney,jillybean01717@aol.com,Diamond Bar,CA,3347,29.95,2005-08-17,1
+Lane,Hodes,LikestoSmile26@aol.com,Baltimore,MD,2877,29.95,2005-06-11,1
+Megan,Dougherty,m_dougherty@hotmail.com,New York,NY,3085,29.95,2005-07-18,2
+Sara,Dresser,saraabrd@hotmail.com,Orange,CA,3394,33.2,2005-08-22,2
+Nalin,Valia,hersh27582@hotmail.com,Irvine,CA,3666,32.95,2005-09-13,1
+R Dean,Davenport,RDDavenport@juno.com,Waco,TX,2340,29.95,2005-04-09,2
+Winston,Liaw,winstonliaw@comcast.net,Milpitas,CA,3389,29.95,2005-08-21,1
+Nenya,Harris,njharris@ilstu.edu,Normal,IL,2842,29.95,2005-06-02,2
+Sito,Narcisse,sito50n@yahoo.com,Pittsburgh,PA,3185,33.2,2005-08-01,2
+Chowdhury Irad A.,Siddiky,Csiddiky@att.net,Bethesda,MD,3005,29.95,2005-07-10,2
+Stefanie,Schiff,stefanie.schiff@gmail.com,Washington,DC,2593,29.95,2005-05-10,1
+Kendra,Savage,krj1908@aol.com,Arlington,TX,2858,29.95,2005-06-06,1
+Andrew,Freedman,stud_mommy@hotmail.com,Somerville,MA,3542,32.95,2005-09-03,2
+Steve,Lee,steveminlee@yahoo.com,Sunland,CA,2344,29.95,2005-04-09,2
+Sally,Newman,pixie@dartmouth.edu,Hanover,NH,2713,29.95,2005-05-21,2
+Sally,Fiore,safhaus@indy.rr.com,Zionsville,IN,2478,29.95,2005-04-29,2
+Robert,Lucas,rlucas3066@aol.com,New York,NY,3007,29.95,2005-07-11,2
+Ryan,Haddad,ryanh1221@hotmail.com,Arlington,VA,3325,29.95,2005-08-16,2
+Summer,Henry,judil@usd361.k12.ks.us,Kansas City,MO,2536,29.95,2005-05-04,1
+Jeff,Hamilton,jshham@sbcglobal.net,San Antonio,TX,3010,29.95,2005-07-11,1
+Nicole,Pietras,nicole_pietras@hotmail.com,Philadelphia,PA,2927,29.95,2005-06-23,1
+Mita,Dey,mita18@yahoo.com,Panorama,CA,2488,29.95,2005-04-30,1
+Marissa,Evans,mae32@cornell.edu,Ithaca,NY,3336,29.95,2005-08-16,2
+Sharon,Anderson,sharonlpt@yahoo.com,Lake Zurich,IL,2850,29.95,2005-06-03,1
+Matthew,Rettner,mhrettner@hotmail.com,Rye Brook,NY,3553,44.9,2005-09-04,1
+Cheryl,Ancrum,cherylancrumdds@verizon.net,Hempstead,NY,3681,32.95,2005-09-14,2
+Todd,Kenna,todd_k@ucsc.edu,Phoenix,AZ,3650,32.95,2005-09-12,1
+Ashley,Allen,ash.allen@gmail.com,Pound Ridge,NY,3578,32.95,2005-09-07,2
+Michael,Brennan,mjb14@acsu.buffalo.edu,Amherst,NY,3685,32.95,2005-09-14,2
+Adrian,Martinez,alexmartinezcruz@yahoo.com,Mcallen,TX,3188,29.95,2005-08-01,1
+Ira,Savetsky,WATTUP24@aol.com,Cedarhurst,NY,2388,29.95,2005-04-14,2
+Mellissa,Faulks,mellissafaulks@yahoo.com,Lubbock,TX,3521,33.2,2005-08-31,1
+William,Ivans,wjivans@yahoo.com,Palm Coast,FL,2518,29.95,2005-05-03,1
+Nichole,Lovrich,nlovrich@gladstone.uoregon.edu,Pullman,WA,3590,32.95,2005-09-07,2
+Shireen,Issa,issashireen@hotmail.com,Northridge,CA,2611,29.95,2005-05-11,2
+Iris,Holbrook,iholbrook22@yahoo.com,Reno,NV,3162,29.95,2005-07-28,1
+Patrick,Wright,pdw410@adelphia.net,Lancaster,CA,3552,32.95,2005-09-04,2
+Chad,Luberger,luberger123@yahoo.com,Seabrook,TX,2686,29.95,2005-05-18,2
+Weyinmi,Omamuli,weyinmi.omamuli@hm-treasury.gov.uk,London,,3852,32.95,2005-09-26,2
+Frances,Zewalk,virgo0808@aol.com,Tampa,FL,2661,29.95,2005-05-16,1
+Elliott,Church,elliott_church@yahoo.com,Zeeland,MI,3730,32.95,2005-09-18,2
+Fatima,Ukleba,fatima123@OPTONLINE.NET,Brooklyn,NY,2875,29.95,2005-06-10,2
+William,Jenkins,wbjen@umich.edu,Ann Arbor,MI,3832,36.2,2005-09-25,1
+Kevin,Latendresse,latendre@maine.rr.com,South Portland,ME,2558,29.95,2005-05-07,1
+Rebecca,Wexler,bwexler@gwu.edu,Washington,DC,3609,32.95,2005-09-09,2
+William,Shafton,shafton@enclaverecording.com,Los Alamitos,CA,2945,29.95,2005-06-27,2
+Steven,Heileman,gatorheileman@comcast.net,Franklin,TN,2403,29.95,2005-04-16,2
+Karen Mae B.,Alipio,karen.alipio@gmail.com,Salinas,CA,3050,29.95,2005-07-15,2
+Emily,Olson,emily-olson-2@uiowa.edu,Iowa City,IA,3761,32.95,2005-09-20,2
+Julia,Greenberg,vorsina@hotmail.com,Staten Island,NY,2922,29.95,2005-06-21,2
+Benjamin,Nardone,bennardone@gmail.com,Ithaca,NY,3663,32.95,2005-09-13,1
+James,Breitinger,jim@utahredrock.com,Phoenix,AZ,3726,32.95,2005-09-18,1
+Robert,Robey,brobey@apgc.com,Caselberry,FL,3318,29.95,2005-08-15,1
+Andrew,Haack,haacka@msoe.edu,Milwaukee,WI,2976,29.95,2005-07-03,2
+Stephanie,Yu,stephanie_yu@hotmail.com,New York,NY,2452,29.95,2005-04-25,2
+Joe,Hoffman,jodster729@aol.com,Franklinville,NJ,3496,39.9,2005-08-30,1
+Claude,Ronin,roninclaudejob@yahoo.co.jp,Fukuoka,,3729,36.2,2005-09-18,1
+Vanessa,Hoang,vanessahoang@berkeley.edu,Garden Grove,CA,3844,32.95,2005-09-26,1
+Marlon,Wilson,lonmarw@hotmail.com,Yonkers,NY,2335,29.95,2005-04-07,1
+Leigh,Jorgeson,LeighJ333@aol.com,Berkeley,CA,3574,32.95,2005-09-07,2
+Kathryn,Glass,kmglass@coe.edu,Lees Summit,MO,2830,29.95,2005-06-01,2
+Joe,Audal,jlaudal@ucdavis.edu,Davis,CA,2467,29.95,2005-04-26,1
+Jude,Sandoval,scribbles_78229@yahoo.com,Laguna Hills,CA,2421,29.95,2005-04-19,1
+Beverly,Raine,bevraine@comcast.net,Troy,MI,3720,32.95,2005-09-17,1
+Chris,Daughtry,cdaug@wmd.net,Virginia Beach,VA,2591,29.95,2005-05-10,1
+Janet,Justmann,jjustmann@depauw.edu,Chicago,IL,2940,29.95,2005-06-26,2
+Tazneen,Shahabuddin,shahabud@fas.harvard.edu,Cambridge,MA,3803,32.95,2005-09-21,1
+Sonia,Chand,soniakchand@yahoo.com,Munster,IN,3777,32.95,2005-09-20,2
+Bobby,Jordan,jordan35@marshall.edu,Vinton,VA,3350,29.95,2005-08-17,2
+Gabriel,Goldberg,gagoldbe@indiana.edu,Bloomington,IN,2827,29.95,2005-06-01,2
+Michele,Sloan,lsloan@utk.edu,Knoxville,TN,3684,32.95,2005-09-14,1
+Jennifer,Aguirre,jenniferraguirre@yahoo.com,Hawthorne,CA,3605,32.95,2005-09-08,2
+Terry,Tromp,14t2@comcast.net,Jenison,MI,2498,29.95,2005-05-01,1
+Pamela,Hinkle,bamboo102@aol.com,Nashville,TN,2754,29.95,2005-05-24,2
+Anne,Scott,herhon@msn.com,Lake Bluff,IL,3204,29.95,2005-08-03,2
+Paul,Moua,pym510@hotmail.com,Hayward,CA,2504,29.95,2005-05-02,2
+Dale,Lange,JLange6828@aol.com,Weston,CT,2794,29.95,2005-05-28,1
+Jayne,Lady,jayne-lady@uiowa.edu,Iowa City,IA,3487,29.95,2005-08-30,2
+Adam,Collicelli,acollicelli@yahoo.com,New York,NY,2682,29.95,2005-05-17,2
+Hannah,Weiner,hlweiner@gwu.edu,Washington,DC,3133,33.2,2005-07-25,2
+Melissa,Castellaw,mac4r@mtsu.edu,Murfreesboro,TN,2811,29.95,2005-05-30,2
+Jocelyn,Dauz,jocedauz@yahoo.com,National City,CA,2771,29.95,2005-05-25,1
+Kama,Ostoya,kama.ostoya@gmail.com,Durham,NC,3856,32.95,2005-09-26,2
+Jessica,Whitney,lovelycurls@hotmail.com,Simi Valley,CA,2691,29.95,2005-05-19,1
+Seth,Yeager,syeager936@aol.com,Dallas,PA,3678,32.95,2005-09-14,1
+Marilyn,Kroplick,marilyn5001@charter.net,Calabasas,CA,3481,39.9,2005-08-29,2
+Matthew,Arnould,marnould@gmail.com,Boston,MA,3464,59.9,2005-08-28,1
+Emmanuel,James,kofi2kg@hotmail.com,Parlin,NJ,3439,29.95,2005-08-26,2
+Dr. Charles,Montgomery,cdmontgom@aol.com,Ho-HoKus,NJ,2860,29.95,2005-06-06,2
+Russ,Teig,russteig@netins.net,Jewell,IA,2499,29.95,2005-05-01,1
+Stella,Nguyen,stellacnguyen@yahoo.com,Devon,PA,3716,32.95,2005-09-17,2
+Hagar,Sadan,hagarsadan@yahoo.com,Jersey City,NJ,3533,32.95,2005-09-02,2
+Daniel,Lorenzo,lorenzo@oldqueens.rutgers.edu,New Brunswick,NJ,3290,29.95,2005-08-11,1
+Meghan,Horne,m_horne_10@yahoo.com,Tryon,NC,2657,29.95,2005-05-16,1
+Laura C,Rowntree,lr55@cornell.edu,Astoria,NY,3864,32.95,2005-09-26,2
+Matt,Ball,mattgball@yahoo.com,Hurst,TX,2702,29.95,2005-05-19,1
+Lenore,Hudson,Nora822@aol.com,Austin,TX,3383,29.95,2005-08-21,1
+Lawrence,Wang,we1987@prodigy.net,Oakland,CA,2599,29.95,2005-05-10,2
+Paige,Leung,paigeroo@gmail.com,Ann Arbor,MI,2873,29.95,2005-06-09,1
+Rizalinda D.,Hensley,nod35@vzpacifica.net,Saipan Mp,,2975,33.2,2005-07-03,1
+Reed,Wycuff,reedwycuff@hotmail.com,Marshfield,MO,2546,29.95,2005-05-05,2
+Reginald,Mcmillan,mandmmall@unimstores.com,Glenwood,IL,2526,29.95,2005-05-03,1
+Hayden,Rhudy,hrhudy@msn.com,Washington,DC,3384,29.95,2005-08-21,1
+Holly,Wood,holly@idea-multimedia.com,Talladega,AL,2447,29.95,2005-04-24,1
+Meghan,Mcdonough,mcdonoug@mail.usf.edu,Land O Lakes,FL,2823,29.95,2005-05-31,1
+George,Nathan,gnatrx7@a0l.com,Rego Park,NY,2699,29.95,2005-05-19,2
+Ester,Kiper,samkiper@bellsouth.net,Palmetto Bay,FL,3882,32.95,2005-09-28,2
+Mikayla,Butchart,mdbutchart@yahoo.com,Oakland,CA,3710,32.95,2005-09-16,2
+Joel,Ross,jdross1@ucsd.edu,San Diego,CA,2336,29.95,2005-04-07,1
+Irina,Pchelintseva,nasha@nj.rr.com,Fort Lee,NJ,2367,29.95,2005-04-11,2
+Janis,Brush,katjlb2@comcast.net,Englewood,FL,2459,29.95,2005-04-26,1
+Jonathan,Mack,jmackut@mail.utexas.edu,Austin,TX,3701,32.95,2005-09-15,1
+Tam,Pham,pwtampham@yahoo.com,San Jose,CA,3441,29.95,2005-08-26,2
+Nathan,Strebeck,nstreb1@lsu.edu,Denham Springs,LA,2565,29.95,2005-05-08,1
+Jamie,Labukas,jamienic@gmail.com,New York,NY,2608,29.95,2005-05-11,1
+Melissa,Fishkin,mfishkin111@yahoo.com,Brooklyn,NY,2534,29.95,2005-05-04,1
+Victoria,Mancilla,victoria_mancilla@yahoo.com,Bronx,NY,2710,29.95,2005-05-20,2
+Carol,Sulkes,csulkes@yahoo.com,Highland Park,IL,3087,29.95,2005-07-19,1
+Ambrose,Chukwueke,ambroseuba@yahoo.co.uk,Tampa,FL,2876,29.95,2005-06-11,1
+Eric,Hergenroeder,eghergenroeder@smcm.edu,Saint Marys,MD,3387,29.95,2005-08-21,1
+Richard,Rydzik,HSRP1@aol.com,Beacon Falls,CT,3754,32.95,2005-09-19,2
+Michael,Wiggers,students.for.tobacco@gmail.com,Urbana,IL,3779,32.95,2005-09-20,2
+Jessica,Jacobson,j-jacobson@northwestern.edu,Evanston,IL,2801,29.95,2005-05-30,1
+Hannah,Weiner,hlweiner@gwu.edu,Washington,DC,3089,29.95,2005-07-19,1
+Jennifer,Presley,presley_12@hotmail.com,New York,NY,2543,29.95,2005-05-05,2
+Brian,Schaefer,bshafr@earthlink.net,Athens,OH,2675,29.95,2005-05-17,1
+James,Nixon,james.nixon@villanova.edu,Ardmore,PA,3655,36.2,2005-09-12,1
+Michael,Morales,chineseroom@gmail.com,Fremont,CA,2795,29.95,2005-05-28,2
+Melissa,Moukawsher,melissam235@msn.com,Palm Harbor,FL,2792,29.95,2005-05-27,1
+James,Whiting,jameswhiting@comcast.net,Kent,WA,2557,29.95,2005-05-07,1
+Neil,Patel,maneka_sinha@hotmail.com,Palo Alto,CA,3206,29.95,2005-08-04,1
+Megan,Gore,Megsie819@aol.com,Oak Lawn,IL,3331,29.95,2005-08-16,1
+Yuan-kwei,Liu,ykliu711@yahoo.com,Saratoga,CA,3136,33.2,2005-07-25,2
+Matthew,Accornero,mattyacc@hotmail.com,San Francisco,CA,2770,29.95,2005-05-25,2
+Richard,Salazar,nutrilean2004@yahoo.com,Huntingtown,MD,3303,29.95,2005-08-13,1
+Emily,Holtz,ejholtz@wisc.edu,Racine,WI,3160,29.95,2005-07-28,1
+Adam,Linkner,alinkner@gmail.com,Ann Arbor,MI,2612,89.85,2005-05-11,1
+Vincent,Roberti,vinny805@aol.com,Santa Barbara,CA,3877,32.95,2005-09-27,1
+Donna,Burke,rodger.burke@andrew.com,Naperville,IL,3645,32.95,2005-09-12,2
+Sol,Cortez,06smcort@alma.edu,Alma,MI,3871,32.95,2005-09-27,1
+Rosalinde,Casalini,rcasalini@yahoo.com,West Islip,NY,2939,36.45,2005-06-25,1
+Dorothy,Janowicz,lorensmonica@hotmail.com,Norridge,IL,2984,29.95,2005-07-06,1
+Jeremy,Neil,jneil@du.edu,Los Altos Hills,CA,3018,29.95,2005-07-12,1
+Joan,Williams,williams1908@aol.com,Miramar,FL,3581,32.95,2005-09-07,2
+Deborah,Jeffcoat,djeffcoat@bellsouth.net,Mandeville,LA,3059,29.95,2005-07-17,2
+Antoinette,Valadez,avaladez@verizon.net,Lancaster,CA,3448,29.95,2005-08-26,2
+Jeremy,Dicker,JeremyGOLF@aol.com,Palm Beach Gardens,FL,3750,32.95,2005-09-19,2
+Rachel,Agent,rachel@rachelagent.com,Seattle,WA,2990,29.95,2005-07-07,1
+Michal,Rosenn,michal@nyu.edu,New York,NY,2431,29.95,2005-04-21,2
+Heather,Thomas,hmthomas@mail.usf.edu,Tampa,FL,2559,29.95,2005-05-07,1
+Brian,Lipari,BrianLipariMD@aol.com,Islip,NY,2381,29.95,2005-04-13,2
+Shouvik,Biswas,supervik80@yahoo.com,Redondo Beach,CA,2901,29.95,2005-06-19,2
+Kelly,Norton,Sweetypoo3@aol.com,Lexington,KY,2353,29.95,2005-04-10,2
+Adam,Fischman,agf7@cornell.edu,Ithaca,NY,2541,29.95,2005-05-05,1
+Joseph,Boufadel,jboufade@uci.edu,Mission Viejo,CA,3247,29.95,2005-08-08,2
+Vinh,Phan,phan_vinh@yahoo.com,Santa Clara,CA,3346,29.95,2005-08-17,1
+Harvey,Scammahorn,gene_scammahorn@hotmail.com,Plano,TX,2736,29.95,2005-05-23,2
+Nathan,Bullock,jnbullock@yahoo.com,Arlington,TX,2704,29.95,2005-05-20,2
+John,Hand,jmhand97@hotmail.com,Wainscott,NY,2615,29.95,2005-05-11,1
+Christopher,Colon,Christopherccolon@yahoo.com,Syosset,NY,2607,29.95,2005-05-11,1
+David,Morse,jennyzupec@yahoo.com,Atlanta,GA,2463,29.95,2005-04-26,1
+Jessica,Tincopa,robsprincipessa@yahoo.com,Whittier,CA,3889,36.2,2005-09-28,2
+David,Albertson,davidalbertson@gmail.com,Canoga Park,CA,3132,29.95,2005-07-25,1
+Deidre,Shears,dedeshears@aol.com,Monterey,CA,3026,33.2,2005-07-13,1
+Clifton,Gruhn,cgruhn@metropo-s.mccneb.edu,Omaha,NE,2516,29.95,2005-05-02,2
+Teio,Brown,junnome1@aol.com,Durham,NC,2566,29.95,2005-05-08,2
+Mae,Seon,seon101@hotmail.com,Ithaca,NY,2446,29.95,2005-04-24,1
+Dan,Stroeing,stroeing@rocketmail.com,Bainbridge Island,WA,3416,29.95,2005-08-24,1
+Kasey,Curtis,kaseycurtis@gmail.com,Redwood City,CA,3276,29.95,2005-08-09,2
+Andrea,Santana,asantana@bellsouth.net,Aventura,FL,2601,29.95,2005-05-10,2
+Angelina,Malfitano,armalfitano@ucdavis.edu,Davis,CA,2697,29.95,2005-05-19,1
+Peter,Sutton,psutton@uiuc.edu,Highland Park,IL,2726,29.95,2005-05-22,1
+Jose,Melero,jlmelero@gmail.com,Chicago,IL,2637,29.95,2005-05-14,1
+James,Marin,JRMarin2@aol.com,El Monte,CA,2438,29.95,2005-04-23,2
+Carolyn,Yarian,carolyn.yarian@duke.edu,Princeton,NJ,2965,29.95,2005-07-01,1
+Louise,Buck,Elsaprem@AOL.com,Farmington Hills,MI,2872,29.95,2005-06-09,1
+Steven,Moglovkin,smoglo84@aol.com,Houston,TX,3044,29.95,2005-07-15,1
+Owyn,Fischer,ofischer@earthlink.net,New York,NY,3824,32.95,2005-09-24,1
+Mansi,Goel,mansigoel@yahoo.com,South San Francisco,CA,2400,29.95,2005-04-15,1
+Alisa,Kassay,akassay@triad.rr.com,Ramseur,NC,2401,29.95,2005-04-16,2
+Hannah,Weiner,hlweiner@gwu.edu,Washington,DC,3626,32.95,2005-09-11,1
+Pamela,Maass,Pamela.Maass@asu.edu,Tempe,AZ,3175,29.95,2005-07-31,1
+David,Paul,dpaul_2000@yahoo.com,Indianapolis,IN,3813,32.95,2005-09-22,2
+Dorothy,Boylan,data.girl2@verizon.net,Walpole,MA,2443,29.95,2005-04-24,2
+Jon,Boben,jon.boben@tamu.edu,College Station,TX,3531,32.95,2005-09-01,1
+Iesan,Tsai,iesan.tsai@gmail.com,Sunnyvale,CA,2919,33.2,2005-06-21,2
+Robert,Higgins,rjh3@duke.edu,Potomac,MD,3277,29.95,2005-08-09,2
+Tiffany,Sanberg,tsanberg@uci.edu,Aliso Viejo,CA,3363,29.95,2005-08-18,2
+Iken,Sans,iken@hotmail.com,Florence,KY,2889,29.95,2005-06-16,1
+Richard,Oboyle,hammond@yahoo.com,Hammond,IN,2592,29.95,2005-05-10,2
+Shana,Platz,kitkat0009@aol.com,Pikesville,MD,3149,33.2,2005-07-26,2
+Robin,Semer,rsemer@ameritech.net,Chicago,IL,2684,29.95,2005-05-18,2
+Veronica,Lo,twinkle_toez82@yahoo.ca,Scarborough,ON,3246,29.95,2005-08-07,1
+Susannah,Nagle,SusannahNagle@msn.com,Alexandria,VA,3819,36.2,2005-09-23,2
+Nathan,Jensen,nate_312@hotmail.com,Taylorsville,UT,3697,32.95,2005-09-15,2
+Thomas,Hedstrom,thomas.hedstrom@cna.com,Old Hickory,TN,2589,29.95,2005-05-10,1
+Cassandra,Wu,casey_wu@hotmail.com,Fort Lee,NJ,3836,32.95,2005-09-25,2
+Marisella,Rios-weible,mweible@made2manage.com,Broadview Heights,OH,2482,29.95,2005-04-29,2
+Jannice,Faber,la_femme@sbcglobal.net,Austin,TX,3030,29.95,2005-07-13,2
+Janine,Odea,jheavensent@gmail.com,Kirkwood,NY,3210,29.95,2005-08-04,1
+Tara,Rocker,tararocker@optonline.net,Pleasantville,NY,2553,29.95,2005-05-06,1
+Carly,Walowitz,cbw511@aol.com,Northbrook,IL,3182,29.95,2005-08-01,2
+Lawrence,Khan,lawrence.khan@gmail.com,Sacramento,CA,2444,29.95,2005-04-24,2
+Elizabeth A,Garcia,flaming_june82@hotmail.com,New York,NY,2561,29.95,2005-05-07,2
+Trevor,Claxton,trevor.claxton@ukgateway.net,Farnham,ZZ,2394,29.95,2005-04-15,1
+Jessica,Staler,jessicastaler@hotmail.com,Nashville,TN,3862,32.95,2005-09-26,2

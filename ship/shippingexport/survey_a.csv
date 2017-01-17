@@ -1,0 +1,98 @@
+46,Flashing red light,n,n,active
+46,Auto Mode,n,n,active
+46,Passage Mode,n,n,active
+46,Clock,n,n,active
+46,Count up / count down only,n,n,active
+46,Timer Per Question feature,n,n,active
+46,"Preset Test Buttons (LSAT, MCAT, etc)",n,n,active
+46,Memory Buttons (MEM1 & MEM2),n,n,active
+47,Flashing red light,n,n,active
+47,Auto Mode,n,n,active
+47,Passage Mode,n,n,active
+47,Clock,n,n,active
+47,Count up / count down only,n,n,active
+47,Timer Per Question feature,n,n,active
+47,"Preset Test Buttons (LSAT, MCAT, etc)",n,n,active
+47,Memory Buttons (MEM1 & MEM2),n,n,active
+48,Flashing red light,n,n,active
+48,Auto Mode,n,n,active
+48,Passage Mode,n,n,active
+48,Clock,n,n,active
+48,Count up / count down only,n,n,active
+48,Timer Per Question feature,n,n,active
+48,"Preset Test Buttons (LSAT, MCAT, etc)",n,n,active
+48,Memory Buttons (MEM1 & MEM2),n,n,active
+49,Oct 2005,n,n,active
+49,Dec 2005,n,n,active
+49,Feb 2006,n,n,active
+49,June 2006,n,n,active
+49,Sept 2006,n,n,active
+49,Dec 2006,n,n,active
+49,Other (please specify),y,n,active
+50,Never ask you about The Silent Timer,n,n,active
+50,"Ask you about The Silent Timer, but he/she allowed you to use it",n,n,active
+50,Ask you to put your Silent Timer away,n,n,active
+50,I did not take my Silent Timer into the test,n,n,active
+50,I have not taken my test yet,n,n,active
+50,Other (please specify),y,n,active
+51,Silent,n,n,active
+51,Reasonably priced,n,n,active
+51,Easy to use,n,n,active
+51,Ability to improve my pacing during practice,n,n,active
+51,Allowed on test day and/or officially approved by exam board,n,n,active
+51,Ability to display Time Per Question,n,n,active
+51,Ability to count down,n,n,active
+51,Ability to count up,n,n,active
+51,Recommended by a friend/instructor,n,n,active
+52,Very low,n,n,active
+52,Somewhat low,n,n,active
+52,Reasonable,n,n,active
+52,Somewhat high,n,n,active
+52,Very high,n,n,active
+53,Excellent,n,n,active
+53,Good,n,n,active
+53,Average,n,n,active
+53,Poor,n,n,active
+53,Very poor,n,n,active
+54,Timer #1: $<ul><li>Counts up or down</li><li>May or may not be allowed on test day (no official exam board approval)</li><li>Flashing red light</li></ul>,n,n,active
+54,Timer #2: $$<ul><li>Counts up or down</li><li>Officially approved by your exam board for use on test day</li><li>Flashing red light</li></ul>,n,n,active
+54,Timer #3: $$$<ul><li>Counts up or down</li><li>May or may not be allowed on test day (no official exam board approval)</li><li>Flashing red light</li><li>Time Per Question feature</li></ul>,n,n,active
+54,Timer #4: $$$$<ul><li>Counts up or down</li><li>Officially approved by your exam board for use on test day</li><li>Flashing red light</li><li>Time Per Question feature</li></ul>,n,n,active
+55,Search Engine,n,n,active
+55,Prep course (please specify),y,n,active
+55,Friend,n,n,active
+55,Website other than SilentTimer.com (please specify),y,n,active
+55,Other (please specify),y,n,active
+56,Oct 2005,n,n,active
+56,Dec 2005,n,n,active
+56,Feb 2006,n,n,active
+56,June 2006,n,n,active
+56,Sept 2006,n,n,active
+56,Dec 2006,n,n,active
+56,Other (please specify),y,n,active
+57,Yes,n,n,active
+57,No,n,n,active
+58,Definitely,n,n,active
+58,Somewhat,n,n,active
+58,No,n,n,active
+59,Never ask you about The Silent Timer,n,n,active
+59,"Ask you about The Silent Timer, but he/she allowed you to use it",n,n,active
+59,Ask you to put your Silent Timer away,n,n,active
+59,I did not take my Silent Timer into the test,n,n,active
+59,I have not taken my test yet,n,n,active
+59,Other (please specify),y,n,active
+60,Very effective,n,n,active
+60,Somewhat effective,n,n,active
+60,Not effective,n,n,active
+60,Not sure,n,n,active
+61,More than 1 month,n,n,active
+61,2 weeks to 1 month,n,n,active
+61,1 to 2 weeks,n,n,active
+61,Less than 1 week,n,n,active
+62,Very satisfied,n,n,active
+62,Somewhat satisfied,n,n,active
+62,Not sure,n,n,active
+62,Somewhat dissatisfied,n,n,active
+62,Very dissatisfied,n,n,active
+63,Yes,n,n,active
+63,No,n,n,active

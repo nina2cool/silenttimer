@@ -1,0 +1,35 @@
+73,PP3W,1.  Why did you purchase the Silent Digital Watch (verses a timer)? (check all that apply),y,n,y,active
+74,PP3W,2.  Did you use the Silent Digital Watch on test day?,n,n,y,active
+75,PP3W,3.  Which features of the Silent Digital Watch did you utilize in practice? (check all that apply),y,n,y,active
+76,PP3W,4.  Which features of the Silent Digital Watch did you utilize on test day (if applicable)? (check all that apply),y,n,y,active
+77,PP3W,5.  How effective was the Silent Digital Watch in improving your timing?,n,n,y,active
+78,PP3W,6.  Do you believe the price of the Silent Digital Watch is:,n,n,y,active
+79,PP3W,"7.  Would you say the value, as compared to its price, is:",n,n,y,active
+80,PP3W,8.  How satisfied are you with your Silent Digital Watch purchase?,n,n,y,active
+81,PP3W,9.  Would you recommend the Silent Digital Watch to somone else taking the same exam?,n,n,y,active
+82,PP3B,1.  Why did you purchase both producsts? (check all that apply),y,n,y,active
+83,PP3B,2.  Which of the following Timer features did you utilize in PRACTICING for your exam? (check all that apply),y,n,y,active
+84,PP3B,3.  Did you use The Silent Timer on test day?,n,n,y,active
+85,PP3B,4.  How effective was The Silent Timer in improving your timing?,n,n,y,active
+86,PP3B,5.  Do you believe the price of The Silent Timer is:,n,n,y,active
+87,PP3B,"6.  Would you say the value, as compared to its price, is:",n,n,y,active
+88,PP3B,7.  How satisfied are you with your Silent Timer purchase?,n,n,y,active
+89,PP3B,8.  Would you recommend The Silent Timer to somone else taking the same exam?,n,n,y,active
+90,PP3B,9.  Did you use the Silent Digital Watch on test day?,n,n,y,active
+91,PP3B,10.  Which features of the Silent Digital Watch did you utilize in practice? (check all that apply),y,n,y,active
+92,PP3B,11.  Which features of the Silent Digital Watch did you utilize on test day (if applicable)? (check all that apply),y,n,y,active
+93,PP3B,12.  How effective was the Silent Digital Watch in improving your timing?,n,n,y,active
+94,PP3B,13.  Do you believe the price of the Silent Digital Watch is:,n,n,y,active
+95,PP3B,"14.  Would you say the value, as compared to its price, is:",n,n,y,active
+96,PP3B,15.  How satisfied are you with your Silent Digital Watch purchase?,n,n,y,active
+97,PP3B,16.  Would you recommend the Silent Digital Watch to somone else taking the same exam?,n,n,y,active
+98,PP3TT,1.  Why did you purchase the Test Day/Simple Timer (verses The Silent Timer)? (check all that apply),y,n,y,active
+99,PP3TT,2.  Did you use the Test Day/Simple Timer on test day?,n,n,y,active
+100,PP3TT,3.  How effective was the Test Day/Simple Timer in improving your timing?,n,n,y,active
+101,PP3TT,4.  Do you believe the price of the Test Day/Simple Timer is:,n,n,y,active
+102,PP3TT,"5.  Would you say the value, as compared to its price, is:",n,n,y,active
+103,PP3TT,6.  How satisfied are you with your the Test Day/Simple Timer purchase?,n,n,y,active
+104,PP3TT,7.  Would you recommend the Test Day/Simple Timer to somone else taking the same exam?,n,n,y,active
+105,PP3N,1.  Which item did you purchase?,n,n,y,active
+106,PP3N,2.  How satisfied are you with your SilentTimer.com purchase?,n,n,y,active
+107,PP3N,3.  Would you recommend our products to somone else taking the same exam?,n,n,y,active

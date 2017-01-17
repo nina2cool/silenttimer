@@ -1,0 +1,15 @@
+# silenttimer
+
+_notes/
+dbcontrol/**
+cgi-bin/**
+download_china/**
+ebay/**
+new/**
+old files - not on site/**
+Scripts/**
+testhome/**
+zip/**
+include/mysql_sessions.php
+include/db_mysql.inc
+management/include/dbinfo.php

@@ -1,0 +1,7 @@
+/* CSS Document */
+
+.main {font: arial; color: #000000;text-decoration: none;}
+.main A {font: arial; text-decoration: none; color: #000000;}
+.main A:link {font: arial; text-decoration: none; color: #0000CC; font-weight: bold;}
+.main A:visited {font: arial; text-decoration: none; color: #0000CC; font-weight: bold;}
+.main A:hover {font: arial; text-decoration: none; color: #000000; font-weight: bold;}

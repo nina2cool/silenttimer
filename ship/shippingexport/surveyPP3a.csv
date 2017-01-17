@@ -1,0 +1,181 @@
+66,Flashing red light  ,n  ,n  ,active
+66,Auto Mode ,n ,n ,active
+66,Passage Mode ,n ,n ,active
+66,Clock ,n ,n ,active
+66,Count up / count down only ,n ,n ,active
+66,Timer Per Question feature ,n ,n ,active
+66,"Preset Test Buttons (LSAT, MCAT, etc) ",n ,n ,active
+66,Memory Buttons (MEM1 & MEM2) ,n ,n ,active
+67,Yes - without a problem.,n ,n ,active
+67,Yes - but the proctor asked me about it.,n ,n ,active
+67,No - did not bring it to test center.,n ,n ,active
+67,No - proctor would not allow it.,n ,n ,active
+68,Very effective,n ,n ,active
+68,Somewhat effective,n ,n ,active
+68,Not effective,n ,n ,active
+68,Not sure,n ,n ,active
+69,Very low,n ,n ,active
+69,Somewhat low,n ,n ,active
+69,Reasonable,n ,n ,active
+69,Somewhat high,n ,n ,active
+69,Very high,n ,n ,active
+70,Excellent,n ,n ,active
+70,Good,n ,n ,active
+70,Average,n ,n ,active
+70,Poor,n ,n ,active
+70,Very poor,n ,n ,active
+71,Very satisfied,n ,n ,active
+71,Somewhat satisfied,n ,n ,active
+71,Not sure,n ,n ,active
+71,Somewhat dissatisfied,n ,n ,active
+71,Very dissatisfied,n ,n ,active
+72,Yes,n ,n ,active
+72,No,n ,n ,active
+73,Less expensive,n,n ,active
+73,Better value,n,n ,active
+73,Prefer a watch to a timer,n,n ,active
+73,Cannot use timer on test day,n,n ,active
+73,Can be used regularly as a non-testprep tool,n,n ,active
+73,Other (please explain):,y,n ,active
+74,Yes - without a problem.,n ,n ,active
+74,Yes - but the proctor asked me about it.,n ,n ,active
+74,No - did not bring it to test center.,n ,n ,active
+74,No - proctor would not allow it.,n ,n ,active
+75,Clock ,n ,n ,active
+75,Count up,n ,n ,active
+75,Count down,n ,n ,active
+75,Backlight,n ,n ,active
+76,Clock ,n ,n ,active
+76,Count up,n ,n ,active
+76,Count down,n ,n ,active
+76,Backlight,n ,n ,active
+77,Very effective,n ,n ,active
+77,Somewhat effective,n ,n ,active
+77,Not effective,n ,n ,active
+77,Not sure,n ,n ,active
+78,Very low,n ,n ,active
+78,Somewhat low,n ,n ,active
+78,Reasonable,n ,n ,active
+78,Somewhat high,n ,n ,active
+78,Very high,n ,n ,active
+79,Excellent,n ,n ,active
+79,Good,n ,n ,active
+79,Average,n ,n ,active
+79,Poor,n ,n ,active
+79,Very poor,n ,n ,active
+80,Very satisfied,n ,n ,active
+80,Somewhat satisfied,n ,n ,active
+80,Not sure,n ,n ,active
+80,Somewhat dissatisfied,n ,n ,active
+80,Very dissatisfied,n ,n ,active
+81,Yes,n ,n ,active
+81,No,n ,n ,active
+82,"One for practice, one for test day",n ,n ,active
+82,Not sure which product I would prefer,n ,n ,active
+82,"Kept one, gave one to a friend",n ,n ,active
+82,Wanted to have a backup,n ,n ,active
+82,Other (please explain):,y,n,active
+83,Flashing red light  ,n  ,n  ,active
+83,Auto Mode ,n ,n ,active
+83,Passage Mode ,n ,n ,active
+83,Clock ,n ,n ,active
+83,Count up / count down only ,n ,n ,active
+83,Timer Per Question feature ,n ,n ,active
+83,"Preset Test Buttons (LSAT, MCAT, etc) ",n ,n ,active
+83,Memory Buttons (MEM1 & MEM2) ,n ,n ,active
+84,Yes - without a problem.,n ,n ,active
+84,Yes - but the proctor asked me about it.,n ,n ,active
+84,No - did not bring it to test center.,n ,n ,active
+84,No - proctor would not allow it.,n ,n ,active
+85,Very effective,n ,n ,active
+85,Somewhat effective,n ,n ,active
+85,Not effective,n ,n ,active
+85,Not sure,n ,n ,active
+86,Very low,n ,n ,active
+86,Somewhat low,n ,n ,active
+86,Reasonable,n ,n ,active
+86,Somewhat high,n ,n ,active
+86,Very high,n ,n ,active
+87,Excellent,n ,n ,active
+87,Good,n ,n ,active
+87,Average,n ,n ,active
+87,Poor,n ,n ,active
+87,Very poor,n ,n ,active
+88,Very satisfied,n ,n ,active
+88,Somewhat satisfied,n ,n ,active
+88,Not sure,n ,n ,active
+88,Somewhat dissatisfied,n ,n ,active
+88,Very dissatisfied,n ,n ,active
+89,Yes,n ,n ,active
+89,No,n ,n ,active
+90,Yes - without a problem.,n ,n ,active
+90,Yes - but the proctor asked me about it.,n ,n ,active
+90,No - did not bring it to test center.,n ,n ,active
+90,No - proctor would not allow it.,n ,n ,active
+91,Clock ,n ,n ,active
+91,Count up,n ,n ,active
+91,Count down,n ,n ,active
+91,Backlight,n ,n ,active
+92,Clock ,n ,n ,active
+92,Count up,n ,n ,active
+92,Count down,n ,n ,active
+92,Backlight,n ,n ,active
+93,Very effective,n ,n ,active
+93,Somewhat effective,n ,n ,active
+93,Not effective,n ,n ,active
+93,Not sure,n ,n ,active
+94,Very low,n ,n ,active
+94,Somewhat low,n ,n ,active
+94,Reasonable,n ,n ,active
+94,Somewhat high,n ,n ,active
+94,Very high,n ,n ,active
+95,Excellent,n ,n ,active
+95,Good,n ,n ,active
+95,Average,n ,n ,active
+95,Poor,n ,n ,active
+95,Very poor,n ,n ,active
+96,Very satisfied,n ,n ,active
+96,Somewhat satisfied,n ,n ,active
+96,Not sure,n ,n ,active
+96,Somewhat dissatisfied,n ,n ,active
+96,Very dissatisfied,n ,n ,active
+97,Yes,n ,n ,active
+97,No,n ,n ,active
+98,Worried The Silent Timer would be too complicated,n,n ,active
+98,Did not need the extra features,n,n ,active
+98,Wanted something I might be able to use on test day,n,n ,active
+98,Less expensive,n,n ,active
+98,Other (please explain):,y,n ,active
+99,Yes - without a problem.,n ,n ,active
+99,Yes - but the proctor asked me about it.,n ,n ,active
+99,No - did not bring it to test center.,n ,n ,active
+99,No - proctor would not allow it.,n ,n ,active
+100,Very effective,n ,n ,active
+100,Somewhat effective,n ,n ,active
+100,Not effective,n ,n ,active
+100,Not sure,n ,n ,active
+101,Very low,n ,n ,active
+101,Somewhat low,n ,n ,active
+101,Reasonable,n ,n ,active
+101,Somewhat high,n ,n ,active
+101,Very high,n ,n ,active
+102,Excellent,n ,n ,active
+102,Good,n ,n ,active
+102,Average,n ,n ,active
+102,Poor,n ,n ,active
+102,Very poor,n ,n ,active
+103,Very satisfied,n ,n ,active
+103,Somewhat satisfied,n ,n ,active
+103,Not sure,n ,n ,active
+103,Somewhat dissatisfied,n ,n ,active
+103,Very dissatisfied,n ,n ,active
+104,Yes,n ,n ,active
+104,No,n ,n ,active
+105,Please specify:,y,n,active
+106,Very satisfied,n ,n ,active
+106,Somewhat satisfied,n ,n ,active
+106,Not sure,n ,n ,active
+106,Somewhat dissatisfied,n ,n ,active
+106,Very dissatisfied,n ,n ,active
+107,Yes,n ,n ,active
+107,No,n ,n ,active

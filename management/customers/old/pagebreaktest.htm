@@ -1,0 +1,16 @@
+<HTML>
+<HEAD>
+<TITLE>Page Break Test</TITLE>
+<STYLE>
+@media print { DIV.PAGEBREAK {page-break-before: always}}
+</STYLE>
+</HEAD>
+<BODY>
+This is just a text on the first page. There is a HR tag inside the DIV to
+visualise the pagebreak.
+<DIV CLASS="PAGEBREAK"><HR></DIV>
+This is the second page. You could also put some text inside the DIV tag.
+<DIV CLASS="PAGEBREAK"><HR></DIV>
+This is the third and final page. You could use another type of tag to use
+the class in. DIV is just an example.
+</BODY></HTML>
